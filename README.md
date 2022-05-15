@@ -1,4 +1,4 @@
-```
+```javascript
 class People {
   say(message) {
     console.log(message)
@@ -7,7 +7,7 @@ class People {
 const me = new People()
 me.say("hi 👋")
 ```
-<h3 align="center">A passionate junior developer from Indonesia</h3>
+<h3 align="center">I'm a passionate junior developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0e75b6&style=flat" alt="fiandev" /> </p>
 
