@@ -3,6 +3,9 @@ name: Auto commit
 on:
   schedule:
   - cron: "0 4 * * *" # See https://crontab.guru/
+  push:
+    branches:
+      - master
 
 jobs:
   auto_commit:
