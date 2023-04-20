@@ -20,7 +20,7 @@ jobs:
 
       - name: Modify last update
         run: |+
-          time=`date --date='TZ="UTC+7" 2016-08-22 10:37:44' "+%Y-%m-%d %H:%M:%S"
+          time=`date --date='TZ="UTC+7" 2016-08-22 10:37:44' "+%Y-%m-%d %H:%M:%S"`
           cat > "README.md" <<EOF
             # 💫 About Me:
             hi, i'm fian junior fullstack web developer from Indonesia 🇮🇩
