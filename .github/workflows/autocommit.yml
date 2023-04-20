@@ -14,10 +14,11 @@ jobs:
          persist-credentials: false
          fetch-depth: 0
          
+      - uses: jakejarvis/wait-action@master
+        with: "1h"
+        
       - name: sleep
-        uses: jakejarvis/wait-action@master
         run: sleep 1h
-        shell: bash
         
       - name: Modify last update
         run: |+
