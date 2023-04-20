@@ -15,10 +15,12 @@ jobs:
          fetch-depth: 0
          
       - uses: jakejarvis/wait-action@master
-        with: "1h"
+        with:
+          time: "1h"
         
       - name: sleep
         run: sleep 1h
+        shell: bash
         
       - name: Modify last update
         run: |+
