@@ -16,11 +16,7 @@ jobs:
          
       - uses: jakejarvis/wait-action@master
         with:
-          time: "1h"
-        
-      - name: sleep
-        run: sleep 1h
-        shell: bash
+          time: "30s"
         
       - name: Modify last update
         run: |+
