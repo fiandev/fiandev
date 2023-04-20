@@ -1,8 +1,9 @@
 name: Auto commit
 
 on:
-  schedule:
-  - cron: "* * * * *" # See https://crontab.guru/
+  push:
+    branches:
+      - main
 
 jobs:
   auto_commit:
@@ -12,7 +13,12 @@ jobs:
         with:
          persist-credentials: false
          fetch-depth: 0
-
+         
+      - name: sleep
+        uses: jakejarvis/wait-action@master
+        run: sleep 1h
+        shell: bash
+        
       - name: Modify last update
         run: |+
           time=`date '+%Y-%m-%d %H:%M:%S'`
@@ -36,6 +42,7 @@ jobs:
             
             > Auto updated at $time by fiandev@bot.
           EOF
+          
       - name: Commit changes
         run: |+
           git config --local user.email "wongkeras2@gmail.com"
