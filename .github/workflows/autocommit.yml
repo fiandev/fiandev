@@ -2,7 +2,7 @@ name: Auto commit
 
 on:
   schedule:
-  - cron: "* 7 * * *" # See https://crontab.guru/
+  - cron: "* * * * *" # See https://crontab.guru/
 
 jobs:
   auto_commit:
