@@ -42,7 +42,7 @@ jobs:
               > Auto updated at ${$time} by fiandev@bot.
               EOF
             )
-            echo $content > README.md
+          echo $content > README.md
       - name: Commit changes
         run: |+
           git config --local user.email "wongkeras2@gmail.com"
