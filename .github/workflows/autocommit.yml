@@ -19,7 +19,7 @@ jobs:
          fetch-depth: 0
 
       - name: Modify last update
-        run: |
+        run: |+
           time=`date '+%Y-%m-%d %H:%M:%S'`
           content="
               # 💫 About Me:
@@ -42,7 +42,7 @@ jobs:
              "
           echo $content > README.md
       - name: Commit changes
-        run: |
+        run: |+
           git config --local user.email "wongkeras2@gmail.com"
           git config --local user.name "fiandev"
           git add -A
