@@ -4,10 +4,10 @@
   ## quotes
   ```shell
   # Indonesia
-  *kata-kata terakhir* The Tale of Naruto Uzumaki... ya... yang memiliki cincin yang bagus untuk itu. - Jiraiya dari anime Naruto
+  Dunia tidak sekejam yang kamu bayangkan. - Celty Sturluson dari anime Durarara!!
   
   # English
-  *last words* The Tale of Naruto Uzumaki... yes... that has a nice ring to it. - Jiraiya from anime Naruto
+  The world isn't as cruel as you take it to be. - Celty Sturluson from anime Durarara!!
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
