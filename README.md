@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Aku akan membantumu... Tapi tidak dengan kematian, dunia ini sudah cukup dengan itu. Anda dapat mempertahankan hidup Anda selama Anda mengubah cara Anda menjalaninya. Tidak ada kata terlambat, percayalah." - Kurama dari anime Yu Yu Hakusho
+  "Aku benci kota ini. Itu terlalu penuh dengan kenangan yang lebih baik aku lupakan. Saya pergi ke sekolah setiap hari, bergaul dengan teman-teman saya, dan kemudian pulang. Tidak ada tempat yang saya lebih suka untuk tidak pergi lagi. Saya ingin tahu apakah ada yang akan berubah? Akankah hari itu datang?" - Okazaki Tomoya dari anime CLANNAD
   
   # English
-  "I'll help you... But not by death, this world has enough of that. You can keep your life as long as you change the way you live it. It's never too late, believe me." - Kurama from anime Yu Yu Hakusho
+  "I hate this town. It’s too filled with memories I’d rather forget. I go to school every day, hang out with my friends, and then go home. There’s no place I’d rather not go ever again. I wonder if anything will ever change? Will that day ever come?" - Okazaki Tomoya from anime CLANNAD
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-25 22:38:41 by fiandev@bot.
+  > Auto updated at 2023-04-25 22:40:09 by fiandev@bot.
