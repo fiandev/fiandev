@@ -4,10 +4,10 @@
   ## quotes
   ```shell
   # Indonesia
-  Dunia tidak sekejam yang kamu bayangkan. - Celty Sturluson dari anime Durarara!!
+  Mungkin di alam semesta ini, ada kebenaran mutlak yang tunggal. Mungkin itu menjelaskan setiap pertanyaan. Tapi itu di luar jangkauan tangan pendek ini. - Yang Wenli dari anime Legend of the Galactic Heroes
   
   # English
-  The world isn't as cruel as you take it to be. - Celty Sturluson from anime Durarara!!
+  Perhaps in this universe, there exists a solitary, absolute truth. Perhaps it clarifies every question. But that’s beyond the reach of these short hands. - Yang Wenli from anime Legend of the Galactic Heroes
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
