@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Hidup adalah sesuatu yang tidak pernah bisa dijalani dua kali. Bahkan tindakan sia-sia ini pada akhirnya akan berakhir. Dan sambil berpikir bahwa suatu hari, aku pasti akan menyesali akhirnya..." - Hachiman Hikigaya dari anime Yahari Ore No Seishun Love Come Wa Machigatteiru
+  "*setelah melihat palu seberat 5 ton milik Ussopp* Maksudmu itu palsu?!" - Tony Tony Chopper dari anime One Piece
   
   # English
-  "Life is something that can never be lived twice. Even this pointless act will eventually end. And while thinking that one day, I'll surely regret its end..." - Hachiman Hikigaya from anime Yahari Ore No Seishun Love Come Wa Machigatteiru
+  "*after seeing Ussopp's 5 ton hammer break* You mean it was a fake?!" - Tony Tony Chopper from anime One Piece
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
