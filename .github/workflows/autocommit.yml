@@ -15,7 +15,7 @@ jobs:
       - name: Sleep for seconds
         uses: jakejarvis/wait-action@master
         with:
-          time: "5s"
+          time: "30s"
       - name: API kyoko
         id: kyoko
         run: |+
@@ -55,12 +55,12 @@ jobs:
             hi, i'm fian junior fullstack web developer from Indonesia 🇮🇩
             
             ## quotes
-            \`\`\`shell
+            \`\`\`
             # Indonesia
-            $quoteID - $char dari anime $anime
+            "$quoteID" - $char dari anime $anime
             
             # English
-            $quoteEN - $char from anime $anime
+            "$quoteEN" - $char from anime $anime
             
             # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
             \`\`\`
