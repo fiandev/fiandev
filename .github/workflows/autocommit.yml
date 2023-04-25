@@ -30,25 +30,25 @@ jobs:
         uses: sergeysova/jq-action@v2
         id: quoteEN
         with:
-          cmd: 'jq ".apiResult[0] .english" <<< ${{ steps.kyoko.outputs.response }}'
+          cmd: 'jq ".apiResult[0] .english" <<< "${{ steps.kyoko.outputs.response }}"'
       
       - name: quotes indonesia
         uses: sergeysova/jq-action@v2
         id: quoteID
         with:
-          cmd: 'jq ".apiResult[0] .indo" <<< ${{ steps.kyoko.outputs.response }}'
+          cmd: 'jq ".apiResult[0] .indo" <<< "${{ steps.kyoko.outputs.response }}"'
       
       - name: quotes anime
         uses: sergeysova/jq-action@v2
         id: anime
         with:
-          cmd: 'jq ".apiResult[0] .anime" <<< ${{ steps.kyoko.outputs.response }}'
+          cmd: 'jq ".apiResult[0] .anime" <<< "${{ steps.kyoko.outputs.response }}"'
       
       - name: quotes anime character
         uses: sergeysova/jq-action@v2
         id: char
         with:
-          cmd: 'jq ".apiResult[0] .character" <<< ${{ steps.kyoko.outputs.response }}'
+          cmd: 'jq ".apiResult[0] .character" <<< "${{ steps.kyoko.outputs.response }}"'
 
       - name: Modify last update
         run: |+
