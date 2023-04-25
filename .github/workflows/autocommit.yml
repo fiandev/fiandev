@@ -19,40 +19,36 @@ jobs:
           time: "10s"
       - name: API kyoko
         id: kyoko
-        run: |+
+        run: |
           RESPONSE=$( 
             curl --silent "https://kyoko.rei.my.id/api/quotes.php"
           );
           
-          echo "RESPONSE<<EOF" >> $GITHUB_ENV
-          echo "$RESPONSE" >> $GITHUB_ENV
-          echo "EOF" >> $GITHUB_ENV
+         cat "response.json" > $RESPONSE
       
       - name: quotes english
         uses: sergeysova/jq-action@v2
         id: quoteEN
         with:
-          cmd: jq ".apiResult[0] .english" <<< '${{ env.RESPONSE }}'
+          cmd: jq ".apiResult[0] .english" "response.json" -r
       
       - name: quotes indonesia
         uses: sergeysova/jq-action@v2
         id: quoteID
         with:
-          cmd: jq ".apiResult[0] .indo" <<< '${{ env.RESPONSE }}'
+          cmd: jq ".apiResult[0] .indo" "response.json" -r
       
       - name: quotes anime
         uses: sergeysova/jq-action@v2
         id: anime
         with:
-          cmd: jq ".apiResult[0] .anime" <<< '${{ env.RESPONSE }}'
+          cmd: jq ".apiResult[0] .anime" "response.json" -r
           
-      
       - name: quotes anime character
         uses: sergeysova/jq-action@v2
         id: char
         with:
-          cmd: jq ".apiResult[0] .character" <<< '${{ env.RESPONSE }}'
-          
+          cmd: jq ".apiResult[0] .character" "response.json" -r
           
       - name: Modify last update
         run: |+
