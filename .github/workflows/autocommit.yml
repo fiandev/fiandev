@@ -14,7 +14,8 @@ jobs:
          persist-credentials: false
          fetch-depth: 0
          
-      - uses: jakejarvis/wait-action@master
+      - name: wait action
+        uses: jakejarvis/wait-action@master
         with:
           time: "10s"
           
