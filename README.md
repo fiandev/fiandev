@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Jika Anda berpaling dan mengabaikan orang-orang yang tidak Anda mengerti, Anda akan menyesalinya suatu hari nanti. Terima apa yang terjadi di depan mata Anda sebagai fakta. Itu jalan pintas untuk menjadi dewasa." - Nobuchika Ginoza dari anime Psycho-Pass
+  "Aku akan membantumu... Tapi tidak dengan kematian, dunia ini sudah cukup dengan itu. Anda dapat mempertahankan hidup Anda selama Anda mengubah cara Anda menjalaninya. Tidak ada kata terlambat, percayalah." - Kurama dari anime Yu Yu Hakusho
   
   # English
-  "If you look away and just turn your back on those you don't understand, you'll regret it someday. Accept what's happening before your eyes as a fact. That's a shortcut to becoming an adult." - Nobuchika Ginoza from anime Psycho-Pass
+  "I'll help you... But not by death, this world has enough of that. You can keep your life as long as you change the way you live it. It's never too late, believe me." - Kurama from anime Yu Yu Hakusho
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-25 22:37:12 by fiandev@bot.
+  > Auto updated at 2023-04-25 22:38:41 by fiandev@bot.
