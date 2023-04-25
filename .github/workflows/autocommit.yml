@@ -17,16 +17,45 @@ jobs:
       - uses: jakejarvis/wait-action@master
         with:
           time: "10s"
-        
-      - name: Modify last update
+      - name: API kyoko
+        id: kyoko
         run: |+
           response=$( 
             curl --silent "https://kyoko.rei.my.id/api/quotes.php"
           );
-          quoteID=$( $response | jq ".apiResult[0] .indo" )
-          quoteEN=$( $response | jq ".apiResult[0] .english" )
-          char=$( $response | jq ".apiResult[0] .character" )
-          anime=$( $response | jq ".apiResult[0] .anime" )
+          
+          echo "::set-output name=response::$response"
+      
+      - name: quotes english
+        uses: sergeysova/jq-action@v2
+        id: quoteEN
+        with:
+          cmd: 'jq ".apiResult[0] .english" ${{ step.kyoko.outputs.response }}'
+      
+      - name: quotes indonesia
+        uses: sergeysova/jq-action@v2
+        id: quoteID
+        with:
+          cmd: 'jq ".apiResult[0] .indo" ${{ step.kyoko.outputs.response }}'
+      
+      - name: quotes anime
+        uses: sergeysova/jq-action@v2
+        id: anime
+        with:
+          cmd: 'jq ".apiResult[0] .anime" ${{ step.kyoko.outputs.response }}'
+      
+      - name: quotes anime character
+        uses: sergeysova/jq-action@v2
+        id: char
+        with:
+          cmd: 'jq ".apiResult[0] .character" ${{ step.kyoko.outputs.response }}'
+
+      - name: Modify last update
+        run: |+
+          quoteID=${{ steps.quoteID.outputs.value }}
+          quoteEN=${{ steps.quoteEN.outputs.value }}
+          char=${{ steps.char.outputs.value }}
+          anime=${{ steps.anime.outputs.value }}
           
           time=`date '+%Y-%m-%d %H:%M:%S'`
           
@@ -35,12 +64,15 @@ jobs:
             hi, i'm fian junior fullstack web developer from Indonesia 🇮🇩
             
             ## quotes
-            - Indonesia
-              "$quoteID - $char dari anime $anime"
-            - English
-              "$quoteEN - $char from anime $anime"
+            \`\`\`shell
+            # Indonesia
+            $quoteID - $char dari anime $anime
             
-            \`Auto generated from : https://kyoko.rei.my.id/api/quotes.php\`
+            # English
+            $quoteEN - $char from anime $anime
+            
+            # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
+            \`\`\`
             
             ## 🌐 Socials:
             [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/fiandev)
