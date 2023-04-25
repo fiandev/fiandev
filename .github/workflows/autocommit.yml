@@ -47,7 +47,7 @@ jobs:
           quoteID="${{ steps.quoteID.outputs.value }}"
 
 
-          quoteEN="${{ steps.quoteEN.outputs.value }}""
+          quoteEN="${{ steps.quoteEN.outputs.value }}"
 
 
           char="${{ steps.char.outputs.value }}"
