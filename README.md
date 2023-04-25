@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "*setelah melihat palu seberat 5 ton milik Ussopp* Maksudmu itu palsu?!" - Tony Tony Chopper dari anime One Piece
+  "Probabilitas keberhasilan adalah nol persen. Tapi saya telah belajar bahwa probabilitas tidak ada artinya jika menyangkut kalian." - Lordgenome dari anime Tengen Toppa Gurren Laggan
   
   # English
-  "*after seeing Ussopp's 5 ton hammer break* You mean it was a fake?!" - Tony Tony Chopper from anime One Piece
+  "The probability of success was zero percent. But I've learned that probabilities are meaningless when it comes to you guys. " - Lordgenome from anime Tengen Toppa Gurren Laggan
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at date '+%Y-%m-%d %H:%M:%S' by fiandev@bot.
+  > Auto updated at 2023-04-25 22:35:38 by fiandev@bot.
