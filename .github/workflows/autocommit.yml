@@ -44,11 +44,11 @@ jobs:
           cmd: jq ".apiResult[0] .character" "response.json" -r
       - name: Modify last update
         run: |+
-          quoteID=`${{ steps.quoteID.outputs.value }}`
-          quoteEN=`${{ steps.quoteEN.outputs.value }}`
-          char=`${{ steps.char.outputs.value }}`
-          anime=`${{ steps.anime.outputs.value }}`
-          time=`date '+%Y-%m-%d %H:%M:%S'`
+          quoteID="${{ steps.quoteID.outputs.value }}"
+          quoteEN="${{ steps.quoteEN.outputs.value }}"
+          char="${{ steps.char.outputs.value }}"
+          anime="${{ steps.anime.outputs.value }}"
+          time="date '+%Y-%m-%d %H:%M:%S'"
           
           cat > "README.md" <<EOF
             # 💫 About Me:
