@@ -20,11 +20,28 @@ jobs:
         
       - name: Modify last update
         run: |+
+          response=$( 
+            curl --silent "https://kyoko.rei.my.id/api/quotes.php"
+          );
+          quoteID=$( $response | jq ".apiResult[0] .indo" )
+          quoteEN=$( $response | jq ".apiResult[0] .english" )
           time=`date '+%Y-%m-%d %H:%M:%S'`
+          
           cat > "README.md" <<EOF
             # 💫 About Me:
             hi, i'm fian junior fullstack web developer from Indonesia 🇮🇩
+            
+            ## quotes
+            ```shell
+              # English
+              $quoteEN
               
+              # Indonesia
+              $quoteID
+              
+              # auto generated from : https://kyoko.rei.my.id/api/quotes.php
+            ```
+            
             ## 🌐 Socials:
             [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/fiandev)
             
