@@ -4,10 +4,10 @@
   ## quotes
   ```shell
   # Indonesia
-  Mungkin di alam semesta ini, ada kebenaran mutlak yang tunggal. Mungkin itu menjelaskan setiap pertanyaan. Tapi itu di luar jangkauan tangan pendek ini. - Yang Wenli dari anime Legend of the Galactic Heroes
+  *mengacu pada Azula* Dia bisa menembakkan semua kilat yang dia inginkan padaku, aku tidak akan masuk ke dalam jus lumpur dinding itu. [bergidik] - Mai dari anime Avatar: The Last Airbender
   
   # English
-  Perhaps in this universe, there exists a solitary, absolute truth. Perhaps it clarifies every question. But that’s beyond the reach of these short hands. - Yang Wenli from anime Legend of the Galactic Heroes
+  *referring to Azula* She can shoot all the lightning she wants at me, I'm not going into that wall sludge juice. [shudders] - Mai from anime Avatar: The Last Airbender
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
