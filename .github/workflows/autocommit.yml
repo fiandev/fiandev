@@ -44,16 +44,16 @@ jobs:
           cmd: jq ".apiResult[0] .character" "response.json" -r
       - name: Modify last update
         run: >+
-          quoteID=${{ steps.quoteID.outputs.value }}
+          quoteID="${{ steps.quoteID.outputs.value }}"
 
 
-          quoteEN=${{ steps.quoteEN.outputs.value }}
+          quoteEN="${{ steps.quoteEN.outputs.value }}""
 
 
-          char=${{ steps.char.outputs.value }}
+          char="${{ steps.char.outputs.value }}"
 
 
-          anime=${{ steps.anime.outputs.value }}
+          anime="${{ steps.anime.outputs.value }}"
 
 
 
