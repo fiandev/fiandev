@@ -15,7 +15,7 @@ jobs:
       - name: Sleep for seconds
         uses: jakejarvis/wait-action@master
         with:
-          time: "30s"
+          time: "1m"
       - name: API kyoko
         id: kyoko
         run: |+
@@ -48,7 +48,7 @@ jobs:
           quoteEN="${{ steps.quoteEN.outputs.value }}"
           char="${{ steps.char.outputs.value }}"
           anime="${{ steps.anime.outputs.value }}"
-          time="date '+%Y-%m-%d %H:%M:%S'"
+          time=`date '+%Y-%m-%d %H:%M:%S'`
           
           cat > "README.md" <<EOF
             # 💫 About Me:
