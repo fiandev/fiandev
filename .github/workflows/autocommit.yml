@@ -20,37 +20,39 @@ jobs:
       - name: API kyoko
         id: kyoko
         run: |+
-          response=$( 
+          RESPONSE=$( 
             curl --silent "https://kyoko.rei.my.id/api/quotes.php"
           );
           
-          echo "response='$response'" >> "$GITHUB_OUTPUT"
+          echo "RESPONSE<<EOF" >> $GITHUB_ENV
+          echo "$RESPONSE" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
       
       - name: quotes english
         uses: sergeysova/jq-action@v2
         id: quoteEN
         with:
-          cmd: jq ".apiResult[0] .english" <<< ${{ steps.kyoko.outputs.response }}
+          cmd: jq ".apiResult[0] .english" <<< ${{ env.RESPONSE }}
       
       - name: quotes indonesia
         uses: sergeysova/jq-action@v2
         id: quoteID
         with:
-          cmd: jq ".apiResult[0] .indo" <<< ${{ steps.kyoko.outputs.response }}
+          cmd: jq ".apiResult[0] .indo" <<< ${{ env.RESPONSE }}
           multiline: true
       
       - name: quotes anime
         uses: sergeysova/jq-action@v2
         id: anime
         with:
-          cmd: jq ".apiResult[0] .anime" <<< ${{ steps.kyoko.outputs.response }}
+          cmd: jq ".apiResult[0] .anime" <<< ${{ env.RESPONSE }}
           multiline: true
       
       - name: quotes anime character
         uses: sergeysova/jq-action@v2
         id: char
         with:
-          cmd: jq ".apiResult[0] .character" <<< ${{ steps.kyoko.outputs.response }}
+          cmd: jq ".apiResult[0] .character" <<< ${{ env.RESPONSE }}
           multiline: true
           
       - name: Modify last update
