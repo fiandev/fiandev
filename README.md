@@ -4,10 +4,10 @@
   ## quotes
   ```shell
   # Indonesia
-  Semuanya akan menjadi milikku. - Orochimaru dari anime Naruto
+  *kata-kata terakhir* The Tale of Naruto Uzumaki... ya... yang memiliki cincin yang bagus untuk itu. - Jiraiya dari anime Naruto
   
   # English
-  Everything will be mine. - Orochimaru from anime Naruto
+  *last words* The Tale of Naruto Uzumaki... yes... that has a nice ring to it. - Jiraiya from anime Naruto
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-25 11:49:37 by fiandev@bot.
+  > Auto updated at date '+%Y-%m-%d %H:%M:%S' by fiandev@bot.
