@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Gratis, kita harus menyuntikkan Darah Hitam ke Kishin, jika tidak maka Medusa akan membantai kita!" - Eruka Frog dari anime Soul Eater
+  "Mereka yang tidak bisa mengakui dirinya sendiri, pada akhirnya akan gagal." - Itachi Uchiha dari anime Naruto
   
   # English
-  "Free, we gotta inject the Black Blood into the Kishin, if we don't then Medusa is gonna slaughter us!" - Eruka Frog from anime Soul Eater
+  "Those who cannot acknowledge themselves, will eventually fail." - Itachi Uchiha from anime Naruto
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
