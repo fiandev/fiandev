@@ -14,10 +14,10 @@ jobs:
          persist-credentials: false
          fetch-depth: 0
          
-      - name: wait action
+      - name: Sleep for seconds
         uses: jakejarvis/wait-action@master
         with:
-          time: "10s"
+          time: '30s'
           
       - name: API kyoko
         id: kyoko
