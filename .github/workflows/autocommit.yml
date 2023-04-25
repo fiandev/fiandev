@@ -16,7 +16,7 @@ jobs:
          
       - uses: jakejarvis/wait-action@master
         with:
-          time: "1h"
+          time: "10s"
         
       - name: Modify last update
         run: |+
