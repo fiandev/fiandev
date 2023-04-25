@@ -15,7 +15,7 @@ jobs:
       - name: Sleep for seconds
         uses: jakejarvis/wait-action@master
         with:
-          time: 1s
+          time: "1h"
       - name: API kyoko
         id: kyoko
         run: |+
@@ -45,22 +45,11 @@ jobs:
       - name: Modify last update
         run: >+
           quoteID="${{ steps.quoteID.outputs.value }}"
-
-
           quoteEN="${{ steps.quoteEN.outputs.value }}"
-
-
           char="${{ steps.char.outputs.value }}"
-
-
           anime="${{ steps.anime.outputs.value }}"
-
-
-
           time=`date '+%Y-%m-%d %H:%M:%S'`
-
-
-
+          
           cat > "README.md" <<EOF
             # 💫 About Me:
             hi, i'm fian junior fullstack web developer from Indonesia 🇮🇩
