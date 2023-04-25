@@ -1,6 +1,17 @@
   # 💫 About Me:
   hi, i'm fian junior fullstack web developer from Indonesia 🇮🇩
-    
+  
+  ## quotes
+  ```shell
+  # Indonesia
+  Sokka, kau harus meletakkan terpal di atas tenda. Kau tahu, jadi kita tidak kehujanan? - Katara dari anime Avatar: The Last Airbender
+  
+  # English
+  Sokka, you're supposed to put the tarp on top of the tent. You know, so we don't get rained on? - Katara from anime Avatar: The Last Airbender
+  
+  # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
+  ```
+  
   ## 🌐 Socials:
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/fiandev)
   
@@ -15,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-24 22:45:43 by fiandev@bot.
+  > Auto updated at 2023-04-25 11:49:05 by fiandev@bot.
