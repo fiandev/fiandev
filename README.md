@@ -2,12 +2,12 @@
   hi, i'm fian junior fullstack web developer from Indonesia 🇮🇩
   
   ## quotes
-  ```shell
+  ```
   # Indonesia
-  *mengacu pada Azula* Dia bisa menembakkan semua kilat yang dia inginkan padaku, aku tidak akan masuk ke dalam jus lumpur dinding itu. [bergidik] - Mai dari anime Avatar: The Last Airbender
+  "Gratis, kita harus menyuntikkan Darah Hitam ke Kishin, jika tidak maka Medusa akan membantai kita!" - Eruka Frog dari anime Soul Eater
   
   # English
-  *referring to Azula* She can shoot all the lightning she wants at me, I'm not going into that wall sludge juice. [shudders] - Mai from anime Avatar: The Last Airbender
+  "Free, we gotta inject the Black Blood into the Kishin, if we don't then Medusa is gonna slaughter us!" - Eruka Frog from anime Soul Eater
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
