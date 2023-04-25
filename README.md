@@ -4,10 +4,10 @@
   ## quotes
   ```shell
   # Indonesia
-  Sokka, kau harus meletakkan terpal di atas tenda. Kau tahu, jadi kita tidak kehujanan? - Katara dari anime Avatar: The Last Airbender
+  Semuanya akan menjadi milikku. - Orochimaru dari anime Naruto
   
   # English
-  Sokka, you're supposed to put the tarp on top of the tent. You know, so we don't get rained on? - Katara from anime Avatar: The Last Airbender
+  Everything will be mine. - Orochimaru from anime Naruto
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-25 11:49:05 by fiandev@bot.
+  > Auto updated at 2023-04-25 11:49:37 by fiandev@bot.
