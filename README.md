@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Mereka yang tidak bisa mengakui dirinya sendiri, pada akhirnya akan gagal." - Itachi Uchiha dari anime Naruto
+  "Hidup adalah sesuatu yang tidak pernah bisa dijalani dua kali. Bahkan tindakan sia-sia ini pada akhirnya akan berakhir. Dan sambil berpikir bahwa suatu hari, aku pasti akan menyesali akhirnya..." - Hachiman Hikigaya dari anime Yahari Ore No Seishun Love Come Wa Machigatteiru
   
   # English
-  "Those who cannot acknowledge themselves, will eventually fail." - Itachi Uchiha from anime Naruto
+  "Life is something that can never be lived twice. Even this pointless act will eventually end. And while thinking that one day, I'll surely regret its end..." - Hachiman Hikigaya from anime Yahari Ore No Seishun Love Come Wa Machigatteiru
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
