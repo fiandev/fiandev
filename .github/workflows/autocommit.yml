@@ -24,7 +24,7 @@ jobs:
             curl --silent "https://kyoko.rei.my.id/api/quotes.php"
           );
           
-          echo "::set-output name=response::$response"
+          echo "response=$response" >> "$GITHUB_OUTPUT"
       
       - name: quotes english
         uses: sergeysova/jq-action@v2
