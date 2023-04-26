@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Sebuah ideal hanya ideal setelah semua. Selama Anda memeluk ideal itu, gesekan dengan kenyataan akan terus meningkat. Jadi suatu hari Anda akan menghadapi kenyataan dan harus membayar harga untuk kompromi Anda." - Archer dari anime Fate/stay night
+  "Menjadi monster sepertiku, berarti mengakui bahwa kau terlalu lemah untuk tetap menjadi manusia." - Alucard dari anime Hellsing
   
   # English
-  "An ideal is only an ideal after all. As long as you embrace that ideal, the friction with reality will continue to increase. So you will someday face reality and will have to pay the price for your compromises." - Archer from anime Fate/stay night
+  "To become a monster like me, is to admit you were too weak to remain a human." - Alucard from anime Hellsing
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:43:57 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:45:45 by fiandev@bot.
