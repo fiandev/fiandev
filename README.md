@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Satu-satunya ambisi saya hanyalah membunuh sebanyak mungkin orang secara manusiawi." - Bankotsu dari anime Inuyasha
+  "Ada pengorbanan yang harus dilakukan, pemula." - Yu Kanda dari anime D.Gray-man
   
   # English
-  "My only ambition is simply to kill as many people as humanly possible." - Bankotsu from anime Inuyasha
+  "There are sacrifices that must be made, rookie." - Yu Kanda from anime D.Gray-man
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:22:44 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:24:18 by fiandev@bot.
