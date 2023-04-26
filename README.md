@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Itu keluar~~~ *selama adegan korset*" - Ciel Phantomhive dari anime Kuroshitsuji
+  "Kami akan membalas dendam atas nama Anda." - Ai Enma dari anime Jigoku Shoujo
   
   # English
-  "It's coming out~~~ *during the corset scene*" - Ciel Phantomhive from anime Kuroshitsuji
+  "We will take revenge on your behalf." - Ai Enma from anime Jigoku Shoujo
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:30:14 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:31:45 by fiandev@bot.
