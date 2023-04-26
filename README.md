@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Lumba-lumba punya nyali. Saya ingin dia di klub saya!!!" - Ryōhei Sasagawa dari anime Katekyo Hitman Reborn!
+  "Kita diajarkan untuk tidak pernah meneteskan air mata. Karena meneteskan air mata berarti tubuh telah dikalahkan oleh emosi. Dan, bagi kami, tangisan sederhana itu membuktikan, tanpa pertanyaan, bahwa keberadaan emosi hanyalah sebuah beban." - Rukia Kuchiki dari anime Bleach
   
   # English
-  "The dolphin has guts. I want him in my club!!!" - Ryōhei Sasagawa from anime Katekyo Hitman Reborn!
+  "We are taught never to shed tears. For to shed tears means that the body has been defeated by emotion. And, to us, that simple act of crying proves, without question, that the existence of emotion is nothing but a burden." - Rukia Kuchiki from anime Bleach
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:54:49 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:56:23 by fiandev@bot.
