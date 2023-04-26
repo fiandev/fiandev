@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Mengapa wanita memiliki bokong di dada?" - Son Goku dari anime Dragon Ball
+  "Melolong, Zabimaru." - Abarai Renji dari anime Bleach
   
   # English
-  "Why do women have butts on their chests?" - Son Goku from anime Dragon Ball
+  "Howl, Zabimaru." - Abarai Renji from anime Bleach
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:50:14 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:51:44 by fiandev@bot.
