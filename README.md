@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Ketika seorang pria belajar untuk mencintai, dia harus menanggung risiko kebencian." - Madara Uchiha dari anime Naruto
+  "Saya memiliki pikiran yang jenius dan rasa keadilan yang kuat." - Light Yagami dari anime Death Note
   
   # English
-  "When a man learns to love, he must bear the risk of hatred." - Madara Uchiha from anime Naruto
+  "I have a mind of a genius and a strong sense of justice." - Light Yagami from anime Death Note
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:59:25 by fiandev@bot.
+  > Auto updated at 2023-04-26 06:00:54 by fiandev@bot.
