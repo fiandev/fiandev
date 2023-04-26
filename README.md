@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Berbagi rahasia Anda dengan seseorang berarti Anda melibatkan mereka dalam masalah Anda. Ini mungkin membuat segalanya lebih mudah bagi Anda, tetapi keluarga Anda juga bisa menderita karenanya." - Mayoi Hachikuji dari anime Nisemonogatari
+  "(menggunakan boneka Pikachu sewaan) Thundershock, Thunderbolt, Thunder. Saya telah dikalahkan berkali-kali oleh serangan Pikachu, saya hafal semuanya! Ahahahahahaha!" - Kojirou dari anime Pokémon
   
   # English
-  "Sharing your secret with someone means you involve them in your problems. It may make things easier for you, but your family could end up suffering for it too." - Mayoi Hachikuji from anime Nisemonogatari
+  "(using a rental Pikachu doll) Thundershock, Thunderbolt, Thunder. I've been defeated so many times by Pikachu's attacks, I know them all by heart! Ahahahahahaha!" - Kojirou from anime Pokémon
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:06:02 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:07:34 by fiandev@bot.
