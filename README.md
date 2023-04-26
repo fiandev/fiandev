@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "...Ya, keinginan untuk melindungi sesuatu..., pada saat yang sama, tidak lain adalah keinginan untuk melanggarnya." - Emiya Shirou dari anime Fate/stay night
+  "Orak-arik itu masalah ke bawah." - TK dari anime Angel Beats!
   
   # English
-  "...Yes, the desire to protect something... is, at the same time, none other than the wish for something to violate it." - Emiya Shirou from anime Fate/stay night
+  "Scrambled it trouble down." - TK from anime Angel Beats!
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:38:02 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:39:31 by fiandev@bot.
