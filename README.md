@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Kami akan membalas dendam atas nama Anda." - Ai Enma dari anime Jigoku Shoujo
+  "Saya minta maaf. Tapi kau tahu? Saya hanya manusia. Itu wajar bahwa saya akan gagal pada kesempatan." - Sumeragi Lee Noriega dari anime Mobile Suit Gundam 00
   
   # English
-  "We will take revenge on your behalf." - Ai Enma from anime Jigoku Shoujo
+  "I’m sorry. But, you know? I'm only human. It's natural that I'll fail on occasion. " - Sumeragi Lee Noriega from anime Mobile Suit Gundam 00
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:31:45 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:33:22 by fiandev@bot.
