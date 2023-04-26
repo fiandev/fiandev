@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "(menggunakan boneka Pikachu sewaan) Thundershock, Thunderbolt, Thunder. Saya telah dikalahkan berkali-kali oleh serangan Pikachu, saya hafal semuanya! Ahahahahahaha!" - Kojirou dari anime Pokémon
+  "Saya mungkin tidak kompeten, tapi setidaknya saya tidak lupa untuk membidik tinggi!" - Aoi Toori dari anime Kyoukai Senjou No Horizon
   
   # English
-  "(using a rental Pikachu doll) Thundershock, Thunderbolt, Thunder. I've been defeated so many times by Pikachu's attacks, I know them all by heart! Ahahahahahaha!" - Kojirou from anime Pokémon
+  "I may be inept, but at least I don't forget to aim high!" - Aoi Toori from anime Kyoukai Senjou No Horizon
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:07:34 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:09:02 by fiandev@bot.
