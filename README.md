@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Menjadikan bajingan seperti itu sebagai juru bicara..." - Near dari anime Death Note
+  "Berbagi rahasia Anda dengan seseorang berarti Anda melibatkan mereka dalam masalah Anda. Ini mungkin membuat segalanya lebih mudah bagi Anda, tetapi keluarga Anda juga bisa menderita karenanya." - Mayoi Hachikuji dari anime Nisemonogatari
   
   # English
-  "Making such a sleazebag a spokesman..." - Near from anime Death Note
+  "Sharing your secret with someone means you involve them in your problems. It may make things easier for you, but your family could end up suffering for it too." - Mayoi Hachikuji from anime Nisemonogatari
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:04:26 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:06:02 by fiandev@bot.
