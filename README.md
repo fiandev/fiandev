@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Biarkan surga berurusan dengan hidup dan mati, bahkan yang paling menakutkan pun kalah. Mari kita hidup untuk sesaat lagi!" - Marshall D. Teach dari anime One Piece
+  "Mengapa wanita memiliki bokong di dada?" - Son Goku dari anime Dragon Ball
   
   # English
-  "Let the heavens deal with life and death, even the most fearful lose to that. Let's live for another moment!" - Marshall D. Teach from anime One Piece
+  "Why do women have butts on their chests?" - Son Goku from anime Dragon Ball
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:48:47 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:50:14 by fiandev@bot.
