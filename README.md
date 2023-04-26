@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Pisau Dapur-kun!" - Tyki Mikk dari anime D.Gray-man
+  "Itu keluar~~~ *selama adegan korset*" - Ciel Phantomhive dari anime Kuroshitsuji
   
   # English
-  "Kitchen Knife-kun!" - Tyki Mikk from anime D.Gray-man
+  "It's coming out~~~ *during the corset scene*" - Ciel Phantomhive from anime Kuroshitsuji
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:28:43 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:30:14 by fiandev@bot.
