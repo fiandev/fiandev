@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Orak-arik itu masalah ke bawah." - TK dari anime Angel Beats!
+  "Oh, keabadian. Heh, aku memberikan itu pada ular." - Archer dari anime Fate/stay night
   
   # English
-  "Scrambled it trouble down." - TK from anime Angel Beats!
+  "Oh, immortality. Heh, I gave that to the snake." - Archer from anime Fate/stay night
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:39:31 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:40:59 by fiandev@bot.
