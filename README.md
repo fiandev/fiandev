@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Jika Anda akan membuat permintaan, Anda harus berusaha keras untuk memastikan bahwa itu menjadi kenyataan!" - Kouki Akune dari anime Medaka Box
+  "Satu-satunya ambisi saya hanyalah membunuh sebanyak mungkin orang secara manusiawi." - Bankotsu dari anime Inuyasha
   
   # English
-  "If you're going to make a wish, you must put forth the effort to ensure that it comes true!" - Kouki Akune from anime Medaka Box
+  "My only ambition is simply to kill as many people as humanly possible." - Bankotsu from anime Inuyasha
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:21:17 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:22:44 by fiandev@bot.
