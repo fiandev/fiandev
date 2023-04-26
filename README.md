@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Saya berharap untuk hati. Hati pria yang tidak akan pernah kubiarkan untuk melupakanku." - Kikyo dari anime Inuyasha
+  "Aku akan menggorok perutmu, mengeluarkan isi perutmu, dan memasukkannya ke dalam mangkuk. Pada saat saya selesai dengan Anda, Anda akan berharap bahwa Andalah yang mati." - Inuyasha dari anime Inuyasha
   
   # English
-  "I wish for a heart. A heart of the man whom I'll never allow to forget me." - Kikyo from anime Inuyasha
+  "I'm gonna slit your stomach, take out your guts, and put them in a bowl. By the time I'm through with you, you're going to wish it was you who was dead." - Inuyasha from anime Inuyasha
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:18:20 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:19:49 by fiandev@bot.
