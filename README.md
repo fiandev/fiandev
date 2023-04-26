@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Atau sudahkah Anda menyadarinya? Bahwa hanya mereka yang siap ditembak yang berhak menembak...! Lelouch Vi Britannia memerintahkan kalian semua...untuk MATI!" - Lelouch Lamperouge dari anime Code Geass: Lelouch of the Rebellion
+  "Apa yang paling diinginkan seseorang yang kehilangan kedudukannya? Itu sederhana. Mereka ingin seseorang menemukan mereka, di mana mereka berdiri." - Hachiman Hikigaya dari anime Yahari Ore No Seishun Love Come Wa Machigatteiru
   
   # English
-  "Or have you realized it? That only those who are prepared to be shot have the right to shoot...! Lelouch Vi Britannia commands you all...to DIE!" - Lelouch Lamperouge from anime Code Geass: Lelouch of the Rebellion
+  "What does someone who´s lost their standing want the most? That's simple. They want someone to find them, where they're standing." - Hachiman Hikigaya from anime Yahari Ore No Seishun Love Come Wa Machigatteiru
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:10:35 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:12:09 by fiandev@bot.
