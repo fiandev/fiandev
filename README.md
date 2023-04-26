@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Dunia apa adanya, sifat manusia seperti biasa, tidak mungkin untuk menghilangkan pertempuran. Pada akhirnya, membunuh itu pasti jahat. Jika demikian, yang terbaik adalah mengakhirinya dengan efisiensi maksimum dan dengan biaya paling sedikit, waktu paling sedikit. Jika Anda ingin memfitnah itu sebagai kotor dan merendahkan itu sebagai jahat, maka lakukan apa yang Anda inginkan. Keadilan tidak bisa menyelamatkan dunia. Saya tidak tertarik dengan hal-hal seperti itu." - Emiya Kiritsugu dari anime Fate/zero
+  "Menjadikan bajingan seperti itu sebagai juru bicara..." - Near dari anime Death Note
   
   # English
-  "The world as it is, the human nature as always, it is impossible to eliminate battles. In the end, killing is necessarily evil. If so, it is best to end them in the maximum efficiency and at the least cost, least time. If you want to slander that as foul and demean that as nasty, then do as you wish. Justice can not save the world. I have no interest with things like that." - Emiya Kiritsugu from anime Fate/zero
+  "Making such a sleazebag a spokesman..." - Near from anime Death Note
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:02:53 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:04:26 by fiandev@bot.
