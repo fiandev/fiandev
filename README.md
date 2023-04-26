@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "*merujuk pada Haruhi* Dia pasti terlahir bodoh." - Kyon dari anime The Melancholy of Haruhi Suzumiya
+  "Lumba-lumba punya nyali. Saya ingin dia di klub saya!!!" - Ryōhei Sasagawa dari anime Katekyo Hitman Reborn!
   
   # English
-  "*referring to Haruhi* She must have been born dumb." - Kyon from anime The Melancholy of Haruhi Suzumiya
+  "The dolphin has guts. I want him in my club!!!" - Ryōhei Sasagawa from anime Katekyo Hitman Reborn!
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:53:20 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:54:49 by fiandev@bot.
