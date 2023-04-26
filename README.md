@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Ketika saya mulai memikirkan dia ketika saya tertidur, saya berhenti mengalami mimpi buruk. Aku mulai tidak sabar untuk bertemu dengannya. Untuk pertama kalinya sejak saya tiba di sini, saya senang." - Asuna Yūki dari anime Sword Art Online
+  "Saya tidak keberatan dimakan, selama itu oleh titan wanita panas terik." - Dot Pixis dari anime Shingeki no Kyojin
   
   # English
-  "When I began thinking of him as I fell asleep, I stopped having nightmares. I began to look forward to seeing him. For the first time since I arrived here, I was happy." - Asuna Yūki from anime Sword Art Online
+  "I wouldn´t mind being eaten, as long as it was by a scorchingly hot lady titan." - Dot Pixis from anime Shingeki no Kyojin
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 06:05:30 by fiandev@bot.
+  > Auto updated at 2023-04-26 06:07:07 by fiandev@bot.
