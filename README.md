@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Menjadi monster sepertiku, berarti mengakui bahwa kau terlalu lemah untuk tetap menjadi manusia." - Alucard dari anime Hellsing
+  "Meski sudah lama, kau harus ingat wajah rekan-rekanmu. Mengapa? Karena jika tidak, Anda akan melukai perasaan mereka ketika mereka memanggil Anda." - Shino Aburame dari anime Naruto
   
   # English
-  "To become a monster like me, is to admit you were too weak to remain a human." - Alucard from anime Hellsing
+  "Even if it's been a while, you should remember your comrades faces. Why? Because otherwise you will hurt their feelings when they call out to you." - Shino Aburame from anime Naruto
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:45:45 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:47:18 by fiandev@bot.
