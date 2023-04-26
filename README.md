@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Setiap orang ada karena suatu alasan. Sekecil mungkin. Aku yakin kamu juga punya arti." - Mirajane Strauss dari anime Fairy Tail
+  "Ketika seorang pria belajar untuk mencintai, dia harus menanggung risiko kebencian." - Madara Uchiha dari anime Naruto
   
   # English
-  "Everyone exists for a reason. As small as it can be. I'm sure you have a meaning too. " - Mirajane Strauss from anime Fairy Tail
+  "When a man learns to love, he must bear the risk of hatred." - Madara Uchiha from anime Naruto
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:57:54 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:59:25 by fiandev@bot.
