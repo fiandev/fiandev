@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Saya memiliki pikiran yang jenius dan rasa keadilan yang kuat." - Light Yagami dari anime Death Note
+  "Anda bekerja keras Lee, tidak ada keraguan dalam pikiran saya operasi akan sukses. Anda memiliki kekuatan untuk membentuk nasib Anda sendiri. Dan pada satu-dalam-seribu, tidak, satu dari sejuta kemungkinan terjadi sesuatu yang salah, aku akan mati bersamamu. Sejak hari aku bertemu denganmu, nindōku adalah melatihmu untuk menjadi ninja yang paling hebat. Itu janji!" - Might Guy dari anime Naruto
   
   # English
-  "I have a mind of a genius and a strong sense of justice." - Light Yagami from anime Death Note
+  "You worked hard Lee, there's no doubt in my mind the surgery will be a success. You have the power to shape your own destiny. And on the one-in-one thousand, no, one in a million chance something to happen to go wrong, I will die right along with you. Since the day I met you, my nindō has been to train you to become the most splendid ninja possible. That's a promise!" - Might Guy from anime Naruto
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 06:00:54 by fiandev@bot.
+  > Auto updated at 2023-04-26 06:02:22 by fiandev@bot.
