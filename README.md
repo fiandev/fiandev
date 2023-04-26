@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Saya tidak keberatan dimakan, selama itu oleh titan wanita panas terik." - Dot Pixis dari anime Shingeki no Kyojin
+  "Lagu-lagunya bagus. Bernyanyi membawa kita sukacita. Ini adalah titik tertinggi dalam budaya yang telah dibuat oleh Lilims." - Kaworu Nagisa dari anime Neon Genesis Evangelion
   
   # English
-  "I wouldn´t mind being eaten, as long as it was by a scorchingly hot lady titan." - Dot Pixis from anime Shingeki no Kyojin
+  "Songs are good. Singing brings us joy. It is the highest point in the culture that Lilims have created." - Kaworu Nagisa from anime Neon Genesis Evangelion
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 06:07:07 by fiandev@bot.
+  > Auto updated at 2023-04-26 06:08:40 by fiandev@bot.
