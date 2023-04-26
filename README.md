@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Ada jerat yang tergantung di pintu masuk kota. Ini adalah pesan yang harus dibaca oleh semua orang yang menemukannya. Untuk yang berhati-hati, yang waras - ini adalah peringatan. Untuk yang sembrono, liar di hati - undangan yang tidak bisa mereka tolak. Yang terburuk dari dunia kriminal berkumpul di sini. Mereka datang ke sini dari seluruh dunia untuk saling berebut kekuasaan. Sebuah kota jahat yang terperangkap di antara timur dan barat yang didirikan selama Perang Dingin dan dipelihara oleh banyak orang yang datang ke sini untuk menunggangi gelombang perdagangan obat-obatan terlarang yang menyapu seluruh benua. Ujung dunia, wadah kemunafikan, tempat tinggal mereka yang jiwanya telah dihancurkan dalam pencarian uang dan kekuasaan tanpa henti. Perhentian terakhir dalam perjalanan ke neraka. Bagaimana saya bisa bertahan hidup selama ini? Dengan bantuan tiga orang: Belanda, Revy dan Benny. Juga dikenal sebagai Perusahaan Laguna. Nama kota ini dibicarakan di antara para penjahat dunia. Banyak yang datang ke sini untuk membuat nama untuk diri mereka sendiri ditelan oleh kegelapan, tidak pernah kembali. Nasib kejam menunggu setiap penjahat kecil setengah-setengah, yang secara tidak sengaja tersandung ke Roanapur. Saat ini seekor domba kurban lain telah mengembara terlalu jauh dari rumah. Kota menunggu." - Okajima Rokuro dari anime Black Lagoon
+  "Sebuah ideal hanya ideal setelah semua. Selama Anda memeluk ideal itu, gesekan dengan kenyataan akan terus meningkat. Jadi suatu hari Anda akan menghadapi kenyataan dan harus membayar harga untuk kompromi Anda." - Archer dari anime Fate/stay night
   
   # English
-  "There's a noose that hangs at the entrance to the city. It's a message to be read by all who encounter it. For the cautious, the sane - it's a warning. For the reckless, the wild at heart - an invitation they cannot refuse. The worst of the criminal underworld gather here. They come here from across the world to butt heads and jostle for power. An evil city caught between the east and the west founded during the Cold War and nurtured by many who came here to ride the wave of the illegal drug trade sweeping across the continent. The edge of the world, the crucible of hypocrisy, a place where those whose souls have been destroyed in the relentless search for money and power reside. A final stop on the way to hell. How have I managed to stay alive this long? With the help of three people: Dutch, Revy and Benny. Also known as the Lagoon Company. The name of this city is spoken of among the villains of the world. Many who come here to make a name for themselves are swallowed by the darkness, never to return. A cruel fate awaits any half-assed small time crook, who accidentally stumbles into Roanapur. Right now another sacrificial lamb has wandered too far from home. The city awaits." - Okajima Rokuro from anime Black Lagoon
+  "An ideal is only an ideal after all. As long as you embrace that ideal, the friction with reality will continue to increase. So you will someday face reality and will have to pay the price for your compromises." - Archer from anime Fate/stay night
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:42:29 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:43:57 by fiandev@bot.
