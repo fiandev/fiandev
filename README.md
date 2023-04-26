@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Aku benci kota ini. Itu terlalu penuh dengan kenangan yang lebih baik aku lupakan. Saya pergi ke sekolah setiap hari, bergaul dengan teman-teman saya, dan kemudian pulang. Tidak ada tempat yang saya lebih suka untuk tidak pergi lagi. Saya ingin tahu apakah ada yang akan berubah? Akankah hari itu datang?" - Okazaki Tomoya dari anime CLANNAD
+  "Anda tidak suka kesepian, tetapi Anda takut orang mengungkapkan kasih sayang mereka kepada Anda. Anda berpura-pura tidak memperhatikan. Anda melarikan diri. Anda menyikatnya. Anda menutupi. Anda menolak. Anda bahkan berbohong pada diri sendiri, meyakinkan diri sendiri bahwa tidak ada yang memiliki perasaan untuk Anda." - Rika Shiguma dari anime Boku wa Tomodachi ga Sukunai
   
   # English
-  "I hate this town. It’s too filled with memories I’d rather forget. I go to school every day, hang out with my friends, and then go home. There’s no place I’d rather not go ever again. I wonder if anything will ever change? Will that day ever come?" - Okazaki Tomoya from anime CLANNAD
+  "You don't like being lonely, but you're afraid of people expressing their affection towards you. You pretend not to notice. You run away. You brush it off. You cover up. You reject. You even lie to yourself, convincing yourself that no one has any feelings for you." - Rika Shiguma from anime Boku wa Tomodachi ga Sukunai
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-25 22:40:09 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:01:19 by fiandev@bot.
