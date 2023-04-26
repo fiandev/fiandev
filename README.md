@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Jika Anda tidak dapat memahami kegelapan di hati lawan Anda, Anda tidak akan pernah memahami rasa sakit dan penderitaan orang lain." - Yami Yugi dari anime Yu-Gi-Oh!
+  "Ini pasti perjalanan yang lebih sepi dari yang bisa dibayangkan siapa pun. Memotong kegelapan mutlak, tidak menemukan apa pun kecuali atom hidrogen sesekali. Terbang membabi buta ke dalam jurang, percaya di situlah letak jawaban misteri alam semesta." - Takaki Toono dari anime 5 Centimeters per Second
   
   # English
-  "If you can't understand the darkness in your opponent's heart, you will never comprehend the pain and suffering of others." - Yami Yugi from anime Yu-Gi-Oh!
+  "It must really be a lonelier journey than anyone could imagine. Cutting through absolute darkness, encountering nothing but the occasional hydrogen atom. Flying blindly into the abyss, believing therein lie the answers to the mysteries of the universe." - Takaki Toono from anime 5 Centimeters per Second
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:25:47 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:27:15 by fiandev@bot.
