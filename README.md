@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Tidak peduli siapa orang tua Anda. Setiap orang adalah anak laut." - Whitebeard dari anime One Piece
+  "Tidak peduli seberapa kacau keadaannya, Anda selalu dapat menemukan solusi terbaik." - Eren Jaeger dari anime Shingeki no Kyojin
   
   # English
-  "It doesn't matter who your parents were. Everyone is a child of the sea." - Whitebeard from anime One Piece
+  "No matter how messed up things get, you can always figure out the best solution." - Eren Jaeger from anime Shingeki no Kyojin
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:34:56 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:36:33 by fiandev@bot.
