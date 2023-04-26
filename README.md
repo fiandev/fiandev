@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Apa yang paling diinginkan seseorang yang kehilangan kedudukannya? Itu sederhana. Mereka ingin seseorang menemukan mereka, di mana mereka berdiri." - Hachiman Hikigaya dari anime Yahari Ore No Seishun Love Come Wa Machigatteiru
+  "Kamu mengecewakanku. Jadi aku harus memberimu hukuman. Menyesali ketidakberdayaan Anda dan merasa putus asa." - Makishima Shougo dari anime Psycho-Pass
   
   # English
-  "What does someone who´s lost their standing want the most? That's simple. They want someone to find them, where they're standing." - Hachiman Hikigaya from anime Yahari Ore No Seishun Love Come Wa Machigatteiru
+  "You disappointed me. So I have to give you a punishment. Regret your helplessness and feel despair." - Makishima Shougo from anime Psycho-Pass
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:12:09 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:13:42 by fiandev@bot.
