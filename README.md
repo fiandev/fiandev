@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Kita diajarkan untuk tidak pernah meneteskan air mata. Karena meneteskan air mata berarti tubuh telah dikalahkan oleh emosi. Dan, bagi kami, tangisan sederhana itu membuktikan, tanpa pertanyaan, bahwa keberadaan emosi hanyalah sebuah beban." - Rukia Kuchiki dari anime Bleach
+  "Setiap orang ada karena suatu alasan. Sekecil mungkin. Aku yakin kamu juga punya arti." - Mirajane Strauss dari anime Fairy Tail
   
   # English
-  "We are taught never to shed tears. For to shed tears means that the body has been defeated by emotion. And, to us, that simple act of crying proves, without question, that the existence of emotion is nothing but a burden." - Rukia Kuchiki from anime Bleach
+  "Everyone exists for a reason. As small as it can be. I'm sure you have a meaning too. " - Mirajane Strauss from anime Fairy Tail
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:56:23 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:57:54 by fiandev@bot.
