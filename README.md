@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Dan itulah tepatnya mengapa itu sangat nyaman, bukan begitu?" - Near dari anime Death Note
+  "Sistem yang diciptakan oleh para dewa memisahkan setiap orang ke dalam tugas hidupnya di dunia, menentukan perannya dan mengendalikan mereka...suara melankolis dari mereka yang lahir ke dunia ini telah menembus lubuk hatiku. Saya merasa perlu melakukan sesuatu untuk mereka tanpa membeda-bedakan siapa pun." - Celestin dari anime Aah! Megami-Sama
   
   # English
-  "And that's precisely why it's so convenient, don't you think?" - Near from anime Death Note
+  "The system created by the divine ones segregates every single person into his living assignment in the world, determines his roles and controls them...the melancholy voices of those born into this world have pierced the depths of my heart. I feel the need to do something for them without discriminating against anyone." - Celestin from anime Aah! Megami-Sama
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:15:15 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:16:46 by fiandev@bot.
