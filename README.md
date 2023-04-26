@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Tidak peduli seberapa kacau keadaannya, Anda selalu dapat menemukan solusi terbaik." - Eren Jaeger dari anime Shingeki no Kyojin
+  "...Ya, keinginan untuk melindungi sesuatu..., pada saat yang sama, tidak lain adalah keinginan untuk melanggarnya." - Emiya Shirou dari anime Fate/stay night
   
   # English
-  "No matter how messed up things get, you can always figure out the best solution." - Eren Jaeger from anime Shingeki no Kyojin
+  "...Yes, the desire to protect something... is, at the same time, none other than the wish for something to violate it." - Emiya Shirou from anime Fate/stay night
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:36:33 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:38:02 by fiandev@bot.
