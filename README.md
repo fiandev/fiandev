@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Aku akan menggorok perutmu, mengeluarkan isi perutmu, dan memasukkannya ke dalam mangkuk. Pada saat saya selesai dengan Anda, Anda akan berharap bahwa Andalah yang mati." - Inuyasha dari anime Inuyasha
+  "Jika Anda akan membuat permintaan, Anda harus berusaha keras untuk memastikan bahwa itu menjadi kenyataan!" - Kouki Akune dari anime Medaka Box
   
   # English
-  "I'm gonna slit your stomach, take out your guts, and put them in a bowl. By the time I'm through with you, you're going to wish it was you who was dead." - Inuyasha from anime Inuyasha
+  "If you're going to make a wish, you must put forth the effort to ensure that it comes true!" - Kouki Akune from anime Medaka Box
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 05:19:49 by fiandev@bot.
+  > Auto updated at 2023-04-26 05:21:17 by fiandev@bot.
