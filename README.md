@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Terakhir kali saya membiarkan Anda melakukan alis saya butuh waktu satu bulan." - Elizabeth Thompson dari anime Soul Eater
+  "Semua orang bisa bertarung. Itu hanya pilihan apakah Anda harus melakukannya." - Kazuto Kirigaya dari anime Sword Art Online
   
   # English
-  "The last time I let you do my eyebrows it took you a month." - Elizabeth Thompson from anime Soul Eater
+  "Everybody can fight. It's just a choice of whether you should." - Kazuto Kirigaya from anime Sword Art Online
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 16:00:04 by fiandev@bot.
+  > Auto updated at 2023-04-27 16:01:35 by fiandev@bot.
