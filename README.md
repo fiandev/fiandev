@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Saya tidak akan menanyakan apa yang Anda inginkan. Saya hanya berharap itu menjadi kenyataan dengan kedua tangan Anda sendiri. (kepada Kyo)" - Sohma Yuki dari anime Fruits Basket
+  "Lawan dari cinta bukanlah benci, itu adalah sikap apatis." - Kyouko Houin dari anime Kodomo no Jikan
   
   # English
-  "I won't ask what you wish for. I only hope it comes true by your own two hands. (to Kyo)" - Sohma Yuki from anime Fruits Basket
+  "The opposite of love isn't hate, it’s apathy. " - Kyouko Houin from anime Kodomo no Jikan
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:30:31 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:32:01 by fiandev@bot.
