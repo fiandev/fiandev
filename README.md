@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Aku sudah kehilangan hidup ini. Saya tidak bermaksud untuk meregangkannya dengan mengorbankan kehormatan saya." - Jean dari anime Claymore
+  "Menjalani hidup Anda sepenuhnya sampai saat kematian Anda, ini adalah aturan untuk dijalani di dunia mana pun." - Crusty dari anime Log Horizon
   
   # English
-  "I already lost this life. I do not intend to stretch it out at the cost of my honor." - Jean from anime Claymore
+  "Living your life to the fullest 'til the moment of your death, this is the rule to live by in any world." - Crusty from anime Log Horizon
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:16:50 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:18:19 by fiandev@bot.
