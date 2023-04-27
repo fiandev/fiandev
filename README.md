@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Emosi manusia itu ambigu. Seseorang dapat memiliki perasaan yang bertentangan. Saya tahu bagaimana mereka mampu menciptakan kebohongan dan rasa sakit ketika tercermin di dunia nyata. Itu sebabnya kami memiliki kata-kata. Kata-kata sangat tepat. Mereka memberi bentuk pada perasaan sambil tanpa ampun membunuh apa pun yang tidak terucapkan." - Shionji Yuuko dari anime Kamisama No Memochou
+  "Bisakah Anda membantu saya? Bisakah kamu membunuhku dengan taringmu? Bisakah kamu masih tidak memaafkanku? Apakah saya masih seorang pengkhianat?" - Hige dari anime Wolf's Rain
   
   # English
-  "Human emotions are ambiguous. A person can have contradicting feelings. I know how they are capable of creating lies and pain when reflected in the real world. That's why we have words. Words are brutally precise. They give form to feelings while mercilessly killing anything left unsaid." - Shionji Yuuko from anime Kamisama No Memochou
+  "Can you do me a favor? Could you kill me with your fangs? Can you still not forgive me? Am I still a traitor?" - Hige from anime Wolf's Rain
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:09:05 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:10:38 by fiandev@bot.
