@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Tak satu pun dari Anda akan pernah lolos dari kutukan, karena saya tidak bisa. Penghuni kotak seperti Anda tidak akan pernah bisa mendapatkan apa pun. Kalian semua akan menghilang begitu saja tanpa meninggalkan apapun di dunia ini. Anda bahkan tidak akan meninggalkan setitik debu pun - Anda tidak akan pernah bahagia!" - Sanetoshi Watase dari anime Mawaru Penguindrum
+  "Cobalah mengandalkan orang lain sesekali. Tidak ada yang bertanya apa yang salah tanpa ingin mendengar jawabannya." - Kai Takemura dari anime Sukitte Ii Na Yo
   
   # English
-  "None of you will ever escape the curse, as I could not. Residents of the boxes like you could never gain anything. You will all simply disappear without leaving anything behind in this world. You won't even leave a fleck of dust behind - you will never be happy!" - Sanetoshi Watase from anime Mawaru Penguindrum
+  "Try relying on others once in a while. No one asks what's wrong without wanting to hear the answer. " - Kai Takemura from anime Sukitte Ii Na Yo
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:24:22 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:25:52 by fiandev@bot.
