@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Hidup tanpa petualangan di dalamnya membosankan. Paling tidak yang bisa dilakukan seorang teman adalah membangkitkan sedikit masalah di hatimu." - Gai Tsutsugami dari anime Guilty Crown
+  "Pembunuhan — Ini adalah perdagangan keluarga. Kita semua mengambilnya. Orang tua saya melihat saya sebagai prospek yang luar biasa. Tetapi saya tidak melihat bahwa saya harus memenuhi harapan mereka." - Killua Zoldyck dari anime Hunter X Hunter
   
   # English
-  "A life with no adventure in it is boring. The least a friend can do is stir up a little trouble in your heart." - Gai Tsutsugami from anime Guilty Crown
+  "Assassination — It's the family trade. We all take it up. My folks see me as an exceptional prospect. But I don't see that I should have to live up to their expectations." - Killua Zoldyck from anime Hunter X Hunter
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:42:57 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:44:34 by fiandev@bot.
