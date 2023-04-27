@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Cara terbaik untuk sukses adalah dengan menggunakan kemampuan Anda sendiri secara maksimal." - Yukio Okumura dari anime Ao no Exorcist
+  "Tak satu pun dari Anda akan pernah lolos dari kutukan, karena saya tidak bisa. Penghuni kotak seperti Anda tidak akan pernah bisa mendapatkan apa pun. Kalian semua akan menghilang begitu saja tanpa meninggalkan apapun di dunia ini. Anda bahkan tidak akan meninggalkan setitik debu pun - Anda tidak akan pernah bahagia!" - Sanetoshi Watase dari anime Mawaru Penguindrum
   
   # English
-  "The best way to succeed is to use your own abilities to the fullest." - Yukio Okumura from anime Ao no Exorcist
+  "None of you will ever escape the curse, as I could not. Residents of the boxes like you could never gain anything. You will all simply disappear without leaving anything behind in this world. You won't even leave a fleck of dust behind - you will never be happy!" - Sanetoshi Watase from anime Mawaru Penguindrum
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:22:51 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:24:22 by fiandev@bot.
