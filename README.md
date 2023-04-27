@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Saya Lelouch Vi Britannia, putra mendiang Permaisuri Marianne. Pangeran ditinggalkan oleh kerajaannya. Jika ada yang berpikir mereka bisa melampaui keputusasaanku, biarkan mereka mencobanya." - Lelouch Lamperouge dari anime Code Geass: Lelouch of the Rebellion
+  "Dek kakek saya tidak memiliki kartu yang menyedihkan, Kaiba. Tapi itu memang mengandung... Exodia yang tak terhentikan!" - Yami Yugi dari anime Yu-Gi-Oh!
   
   # English
-  "I am Lelouch Vi Britannia, son of the late Empress Marianne. The prince abandoned by his empire. If there are any that think they can go beyond my despair, then let them try." - Lelouch Lamperouge from anime Code Geass: Lelouch of the Rebellion
+  "My grandfather's deck has no pathetic cards, Kaiba. But it does contain... the unstoppable Exodia!" - Yami Yugi from anime Yu-Gi-Oh!
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:19:52 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:21:22 by fiandev@bot.
