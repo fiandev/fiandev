@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Sebuah pulau dari mimpi di dalam mimpi? Saya tidak akan pernah bisa melewatkan petualangan hebat seperti ini!" - Monkey D. Luffy dari anime One Piece
+  "Aku masih sangat sangat muda. Saya ingin pergi berbelanja, dan saya ingin makan lebih banyak dari semua jenis makanan enak, Anda tahu? Dan tentu saja... Tentu saja... memiliki romansa yang indah juga. Jika saya bisa memiliki sesuatu seperti itu, itu akan menjadi yang terbaik. Ya... Itu benar-benar yang terbaik." - Anemone dari anime Eureka Seven
   
   # English
-  "An island from a dream within a dream? I could never pass up a great adventure like this!" - Monkey D. Luffy from anime One Piece
+  "I'm still very very young. I want to go shopping, and I want to eats lots more of all kinds of yummy foods, you know? And of course... Of course... have a wonderful romance too. If I could have something like that, it would be the best. Yeah... That really would be the best." - Anemone from anime Eureka Seven
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:33:40 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:35:15 by fiandev@bot.
