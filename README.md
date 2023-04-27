@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Saya tidak mampu menghentikannya bahkan saat menggunakan kedua tangan. Itu membuatku sedikit terkejut. Apakah itu kekuatan penuh Anda? Yah, sepertinya... mengecewakan." - Ulquiorra Schiffer dari anime Bleach
+  "Orang-orang adalah makhluk di mana cinta akan apa yang benar berjalan seiring dengan keinginan untuk melakukan segala macam tindakan jahat." - Yuuki Shinjuurou dari anime Un-Go
   
   # English
-  "I was not capable of stopping it even while using both hands. That surprised me a little. Was that your full power? Well, it seems to be... disappointing." - Ulquiorra Schiffer from anime Bleach
+  "People are beings where a love of what's right goes hand in hand with a desire to do all manner of evil acts." - Yuuki Shinjuurou from anime Un-Go
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:39:51 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:41:23 by fiandev@bot.
