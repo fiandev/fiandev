@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Penghancuran cepat!?" - Mio Akiyama dari anime K-ON!
+  "Aku bersumpah demi kebanggaan Quincy...Aku akan MEMBUNUHmu!" - Uryuu Ishida dari anime Bleach
   
   # English
-  "Speed shredding!?" - Mio Akiyama from anime K-ON!
+  "I swear by the pride of the Quincy...I will KILL you!" - Uryuu Ishida from anime Bleach
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:53:57 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:55:30 by fiandev@bot.
