@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Menjalani hidup Anda sepenuhnya sampai saat kematian Anda, ini adalah aturan untuk dijalani di dunia mana pun." - Crusty dari anime Log Horizon
+  "Saya Lelouch Vi Britannia, putra mendiang Permaisuri Marianne. Pangeran ditinggalkan oleh kerajaannya. Jika ada yang berpikir mereka bisa melampaui keputusasaanku, biarkan mereka mencobanya." - Lelouch Lamperouge dari anime Code Geass: Lelouch of the Rebellion
   
   # English
-  "Living your life to the fullest 'til the moment of your death, this is the rule to live by in any world." - Crusty from anime Log Horizon
+  "I am Lelouch Vi Britannia, son of the late Empress Marianne. The prince abandoned by his empire. If there are any that think they can go beyond my despair, then let them try." - Lelouch Lamperouge from anime Code Geass: Lelouch of the Rebellion
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:18:19 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:19:52 by fiandev@bot.
