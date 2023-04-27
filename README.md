@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Bodoh! Saya tidak khawatir tentang Anda. Maksud saya, Anda tidak harus mengambil semua pujian untuk diri sendiri." - Sanji dari anime One Piece
+  "Saya baik-baik saja dengan apa pun selama itu tidak merugikan saya." - Kyoya Ootori dari anime Ouran High School Host Club
   
   # English
-  "Moron! I'm not worried about you. I meant that you shouldn't take all the credit for yourself." - Sanji from anime One Piece
+  "I'm okay with anything as long as it doesn't harm me." - Kyoya Ootori from anime Ouran High School Host Club
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:47:43 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:49:16 by fiandev@bot.
