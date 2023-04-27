@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Kau selalu menatapku dengan wajah menakutkan." - Eriol Hiiragizawa dari anime Cardcaptor Sakura
+  "Saya di sini untuk berteman dengan paus!" - America dari anime Axis Powers: Hetalia
   
   # English
-  "You always look at me with such a scary face." - Eriol Hiiragizawa from anime Cardcaptor Sakura
+  "I'm here to make friends with whales!" - America from anime Axis Powers: Hetalia
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:05:57 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:07:34 by fiandev@bot.
