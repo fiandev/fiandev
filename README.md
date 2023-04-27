@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Apa keinginan manusia? Yang menurut saya keinginan yang paling menyusahkan adalah keinginan untuk diperhatikan. Itu juga sumber kecemburuan dan masalah hubungan." - Makishima Shougo dari anime Psycho-Pass
+  "Mati atau terbunuh bukanlah sesuatu yang tidak wajar. Hidup tanpa tujuan tanpa tujuan adalah." - Kiba dari anime Wolf's Rain
   
   # English
-  "What are humans’ desires? What I think the most troublesome desire is the desire for attention. It’s the source of jealousy and relationship problems, too." - Makishima Shougo from anime Psycho-Pass
+  "Dying or getting killed isn't something unnatural. Living aimlessly without a purpose is." - Kiba from anime Wolf's Rain
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:13:43 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:15:17 by fiandev@bot.
