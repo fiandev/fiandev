@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Cobalah mengandalkan orang lain sesekali. Tidak ada yang bertanya apa yang salah tanpa ingin mendengar jawabannya." - Kai Takemura dari anime Sukitte Ii Na Yo
+  "[ke Komamura] Jangan membuatku tertawa. Aizen-sama telah memberiku sesuatu yang jauh lebih kuat daripada bankai." - Tousen Kaname dari anime Bleach
   
   # English
-  "Try relying on others once in a while. No one asks what's wrong without wanting to hear the answer. " - Kai Takemura from anime Sukitte Ii Na Yo
+  "[to Komamura] Don't make me laugh. Aizen-sama has given me something far more powerful than a bankai." - Tousen Kaname from anime Bleach
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:25:52 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:27:24 by fiandev@bot.
