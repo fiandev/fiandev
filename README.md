@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Masa lalu pria yang baik membuat orang penasaran! Tapi jika dia orang jahat, maka itu membuatku ingin melihat lebih banyak lagi!" - Grell Sutcliff dari anime Kuroshitsuji
+  "*berbicara tentang Naruto* Anak ini... membuatku penasaran tanpa akhir!" - Orochimaru dari anime Naruto
   
   # English
-  "A good man's past makes people curious! But if he's a bad man, then it makes me wanna see even more!" - Grell Sutcliff from anime Kuroshitsuji
+  "*talking about Naruto* This child... intrigues me to no end!" - Orochimaru from anime Naruto
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 16:03:06 by fiandev@bot.
+  > Auto updated at 2023-04-27 16:04:41 by fiandev@bot.
