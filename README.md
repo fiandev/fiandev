@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Aku masih sangat sangat muda. Saya ingin pergi berbelanja, dan saya ingin makan lebih banyak dari semua jenis makanan enak, Anda tahu? Dan tentu saja... Tentu saja... memiliki romansa yang indah juga. Jika saya bisa memiliki sesuatu seperti itu, itu akan menjadi yang terbaik. Ya... Itu benar-benar yang terbaik." - Anemone dari anime Eureka Seven
+  "Yang diperbolehkan menembak adalah mereka yang bersedia ditembak." - Lelouch Lamperouge dari anime Code Geass: Lelouch of the Rebellion
   
   # English
-  "I'm still very very young. I want to go shopping, and I want to eats lots more of all kinds of yummy foods, you know? And of course... Of course... have a wonderful romance too. If I could have something like that, it would be the best. Yeah... That really would be the best." - Anemone from anime Eureka Seven
+  "Those who are allowed to shoot are those who are prepared to be shot." - Lelouch Lamperouge from anime Code Geass: Lelouch of the Rebellion
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:35:15 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:36:50 by fiandev@bot.
