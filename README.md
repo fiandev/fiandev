@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Dek kakek saya tidak memiliki kartu yang menyedihkan, Kaiba. Tapi itu memang mengandung... Exodia yang tak terhentikan!" - Yami Yugi dari anime Yu-Gi-Oh!
+  "Cara terbaik untuk sukses adalah dengan menggunakan kemampuan Anda sendiri secara maksimal." - Yukio Okumura dari anime Ao no Exorcist
   
   # English
-  "My grandfather's deck has no pathetic cards, Kaiba. But it does contain... the unstoppable Exodia!" - Yami Yugi from anime Yu-Gi-Oh!
+  "The best way to succeed is to use your own abilities to the fullest." - Yukio Okumura from anime Ao no Exorcist
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:21:22 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:22:51 by fiandev@bot.
