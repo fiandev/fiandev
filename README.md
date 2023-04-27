@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Saya baik-baik saja dengan apa pun selama itu tidak merugikan saya." - Kyoya Ootori dari anime Ouran High School Host Club
+  "Orang-orang memiliki kekuatan untuk mengatasi rintangan mereka – semua orang bisa." - Belldandy dari anime Aah! Megami-Sama
   
   # English
-  "I'm okay with anything as long as it doesn't harm me." - Kyoya Ootori from anime Ouran High School Host Club
+  "People have the strength to overcome their obstacles – everyone can." - Belldandy from anime Aah! Megami-Sama
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:49:16 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:50:51 by fiandev@bot.
