@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Semua orang lemah. Makanya kita mengandalkan orang lain. Kita hidup dengan saling membantu. Bisa dibilang, kita saling membutuhkan. Aku bisa bertahan karena aku memilikimu dan yang lainnya." - Hibiki Kuze dari anime Devil Survivor 2
+  "Bodoh! Saya tidak khawatir tentang Anda. Maksud saya, Anda tidak harus mengambil semua pujian untuk diri sendiri." - Sanji dari anime One Piece
   
   # English
-  "Everybody's weak. That's why we rely on others. We live by helping one another. We can say, we need one another. I've been able to survive because I have you and the others." - Hibiki Kuze from anime Devil Survivor 2
+  "Moron! I'm not worried about you. I meant that you shouldn't take all the credit for yourself." - Sanji from anime One Piece
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:46:07 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:47:43 by fiandev@bot.
