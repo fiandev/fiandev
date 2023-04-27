@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "[ke Komamura] Jangan membuatku tertawa. Aizen-sama telah memberiku sesuatu yang jauh lebih kuat daripada bankai." - Tousen Kaname dari anime Bleach
+  "Jangan sentuh jeruk Bellemere-san dengan tangan kotormu! Saya tidak akan memberikan uang itu kepada Anda. Uang itu adalah..." - Nami dari anime One Piece
   
   # English
-  "[to Komamura] Don't make me laugh. Aizen-sama has given me something far more powerful than a bankai." - Tousen Kaname from anime Bleach
+  "Don't touch Bellemere-san's orange with your dirty hands! I won't give that money to you. That money is..." - Nami from anime One Piece
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:27:24 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:28:53 by fiandev@bot.
