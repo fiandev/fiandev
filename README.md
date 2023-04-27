@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Alasan tidak ada artinya. Semakin sulit, semakin besar kemungkinan orang untuk sampai pada kesimpulan mereka sendiri." - Hachiman Hikigaya dari anime Yahari Ore No Seishun Love Come Wa Machigatteiru
+  "Terakhir kali saya membiarkan Anda melakukan alis saya butuh waktu satu bulan." - Elizabeth Thompson dari anime Soul Eater
   
   # English
-  "Excuses are meaningless. The tougher things get, the more likely people are to come to their own conclusions." - Hachiman Hikigaya from anime Yahari Ore No Seishun Love Come Wa Machigatteiru
+  "The last time I let you do my eyebrows it took you a month." - Elizabeth Thompson from anime Soul Eater
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:58:32 by fiandev@bot.
+  > Auto updated at 2023-04-27 16:00:04 by fiandev@bot.
