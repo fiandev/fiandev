@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Betul sekali. saya baik. Setelah semua yang terjadi dalam hidupku, aku masih belum mengejar siapa pun atau apa pun untuk membalas dendam. Jika saya normal, saya akan menghancurkan dunia sekarang. Dalam arti tertentu itu membuat saya menjadi semacam penyelamat." - Hachiman Hikigaya dari anime Yahari Ore No Seishun Love Come Wa Machigatteiru
+  "Sebagai gantinya bisa mendapatkan sesuatu yang tidak bisa dimiliki orang normal... kau harus melepaskan apa yang dimiliki orang normal." - Aki Ogasawara dari anime Kanojo wa Uso wo Aishisugiteru
   
   # English
-  "That’s right. I’m nice. After everything that has happened in my life, I still haven’t gone after anyone or anything in revenge. If I were normal I would have destroyed the world by now. In a sense it makes me a savior of sorts." - Hachiman Hikigaya from anime Yahari Ore No Seishun Love Come Wa Machigatteiru
+  "In exchange of being able to get something that normal people can't have... you must let go of what normal people have." - Aki Ogasawara from anime Kanojo wa Uso wo Aishisugiteru
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-26 06:10:18 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:04:23 by fiandev@bot.
