@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Mati atau terbunuh bukanlah sesuatu yang tidak wajar. Hidup tanpa tujuan tanpa tujuan adalah." - Kiba dari anime Wolf's Rain
+  "Aku sudah kehilangan hidup ini. Saya tidak bermaksud untuk meregangkannya dengan mengorbankan kehormatan saya." - Jean dari anime Claymore
   
   # English
-  "Dying or getting killed isn't something unnatural. Living aimlessly without a purpose is." - Kiba from anime Wolf's Rain
+  "I already lost this life. I do not intend to stretch it out at the cost of my honor." - Jean from anime Claymore
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:15:17 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:16:50 by fiandev@bot.
