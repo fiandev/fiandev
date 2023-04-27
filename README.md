@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Sebagai gantinya bisa mendapatkan sesuatu yang tidak bisa dimiliki orang normal... kau harus melepaskan apa yang dimiliki orang normal." - Aki Ogasawara dari anime Kanojo wa Uso wo Aishisugiteru
+  "Kau selalu menatapku dengan wajah menakutkan." - Eriol Hiiragizawa dari anime Cardcaptor Sakura
   
   # English
-  "In exchange of being able to get something that normal people can't have... you must let go of what normal people have." - Aki Ogasawara from anime Kanojo wa Uso wo Aishisugiteru
+  "You always look at me with such a scary face." - Eriol Hiiragizawa from anime Cardcaptor Sakura
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:04:23 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:05:57 by fiandev@bot.
