@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Pembunuhan — Ini adalah perdagangan keluarga. Kita semua mengambilnya. Orang tua saya melihat saya sebagai prospek yang luar biasa. Tetapi saya tidak melihat bahwa saya harus memenuhi harapan mereka." - Killua Zoldyck dari anime Hunter X Hunter
+  "Semua orang lemah. Makanya kita mengandalkan orang lain. Kita hidup dengan saling membantu. Bisa dibilang, kita saling membutuhkan. Aku bisa bertahan karena aku memilikimu dan yang lainnya." - Hibiki Kuze dari anime Devil Survivor 2
   
   # English
-  "Assassination — It's the family trade. We all take it up. My folks see me as an exceptional prospect. But I don't see that I should have to live up to their expectations." - Killua Zoldyck from anime Hunter X Hunter
+  "Everybody's weak. That's why we rely on others. We live by helping one another. We can say, we need one another. I've been able to survive because I have you and the others." - Hibiki Kuze from anime Devil Survivor 2
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:44:34 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:46:07 by fiandev@bot.
