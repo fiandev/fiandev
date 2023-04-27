@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Lawan dari cinta bukanlah benci, itu adalah sikap apatis." - Kyouko Houin dari anime Kodomo no Jikan
+  "Sebuah pulau dari mimpi di dalam mimpi? Saya tidak akan pernah bisa melewatkan petualangan hebat seperti ini!" - Monkey D. Luffy dari anime One Piece
   
   # English
-  "The opposite of love isn't hate, it’s apathy. " - Kyouko Houin from anime Kodomo no Jikan
+  "An island from a dream within a dream? I could never pass up a great adventure like this!" - Monkey D. Luffy from anime One Piece
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:32:01 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:33:40 by fiandev@bot.
