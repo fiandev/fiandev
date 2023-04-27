@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Yang diperbolehkan menembak adalah mereka yang bersedia ditembak." - Lelouch Lamperouge dari anime Code Geass: Lelouch of the Rebellion
+  "Hinata... ini adalah perbedaan kekuatan yang tidak bisa diubah... perbedaan yang memisahkan elit dari kegagalan. Ini adalah realitas yang tidak dapat diubah. Dari saat Anda mengatakan Anda tidak akan lari, kekalahan Anda tidak bisa dihindari. Satu-satunya hasil yang mungkin adalah keputusasaan Anda saat ini... Mundur!" - Neji Hyuuga dari anime Naruto
   
   # English
-  "Those who are allowed to shoot are those who are prepared to be shot." - Lelouch Lamperouge from anime Code Geass: Lelouch of the Rebellion
+  "Hinata... this is the unalterable difference in strength... the distinction that separates the elite from the failure. This is the unchangeable reality. From the moment you said you wouldn't run, your defeat was inevitable. The only possible outcome was your present despair... Withdraw!" - Neji Hyuuga from anime Naruto
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:36:50 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:38:22 by fiandev@bot.
