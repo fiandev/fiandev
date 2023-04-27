@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Hinata... ini adalah perbedaan kekuatan yang tidak bisa diubah... perbedaan yang memisahkan elit dari kegagalan. Ini adalah realitas yang tidak dapat diubah. Dari saat Anda mengatakan Anda tidak akan lari, kekalahan Anda tidak bisa dihindari. Satu-satunya hasil yang mungkin adalah keputusasaan Anda saat ini... Mundur!" - Neji Hyuuga dari anime Naruto
+  "Saya tidak mampu menghentikannya bahkan saat menggunakan kedua tangan. Itu membuatku sedikit terkejut. Apakah itu kekuatan penuh Anda? Yah, sepertinya... mengecewakan." - Ulquiorra Schiffer dari anime Bleach
   
   # English
-  "Hinata... this is the unalterable difference in strength... the distinction that separates the elite from the failure. This is the unchangeable reality. From the moment you said you wouldn't run, your defeat was inevitable. The only possible outcome was your present despair... Withdraw!" - Neji Hyuuga from anime Naruto
+  "I was not capable of stopping it even while using both hands. That surprised me a little. Was that your full power? Well, it seems to be... disappointing." - Ulquiorra Schiffer from anime Bleach
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:38:22 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:39:51 by fiandev@bot.
