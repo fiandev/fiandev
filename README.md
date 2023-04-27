@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Orang-orang adalah makhluk di mana cinta akan apa yang benar berjalan seiring dengan keinginan untuk melakukan segala macam tindakan jahat." - Yuuki Shinjuurou dari anime Un-Go
+  "Hidup tanpa petualangan di dalamnya membosankan. Paling tidak yang bisa dilakukan seorang teman adalah membangkitkan sedikit masalah di hatimu." - Gai Tsutsugami dari anime Guilty Crown
   
   # English
-  "People are beings where a love of what's right goes hand in hand with a desire to do all manner of evil acts." - Yuuki Shinjuurou from anime Un-Go
+  "A life with no adventure in it is boring. The least a friend can do is stir up a little trouble in your heart." - Gai Tsutsugami from anime Guilty Crown
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:41:23 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:42:57 by fiandev@bot.
