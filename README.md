@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Seberapa baik atau buruk kita melakukan penyergapan akan berdampak besar pada perang ini dan berapa banyak korban yang kita derita. Jika Anda ingin melindungi teman dan keluarga Anda, satu-satunya hal yang harus Anda pikirkan adalah bagaimana membuat operasi ini sukses!" - Kankuro dari anime Naruto
+  "Apa keinginan manusia? Yang menurut saya keinginan yang paling menyusahkan adalah keinginan untuk diperhatikan. Itu juga sumber kecemburuan dan masalah hubungan." - Makishima Shougo dari anime Psycho-Pass
   
   # English
-  "How well or poorly we execute our ambush will have a huge impact on this war and how many casualties we suffer. If you wanna protect your friends and family, the only thing you should be thinking about is how to make this operation a success!" - Kankuro from anime Naruto
+  "What are humans’ desires? What I think the most troublesome desire is the desire for attention. It’s the source of jealousy and relationship problems, too." - Makishima Shougo from anime Psycho-Pass
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:12:10 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:13:43 by fiandev@bot.
