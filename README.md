@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Ada tiga hal yang paling saya benci: Anak-anak, hewan peliharaan, dan wanita dengan sikap. Jadi beri tahu saya, mengapa kami memasukkan semuanya ke dalam kapal kami!?" - Spike Spiegel dari anime Cowboy Bebop
+  "Alasan tidak ada artinya. Semakin sulit, semakin besar kemungkinan orang untuk sampai pada kesimpulan mereka sendiri." - Hachiman Hikigaya dari anime Yahari Ore No Seishun Love Come Wa Machigatteiru
   
   # English
-  "There are three things I hate the most: Kids, pets, and women with attitude. So tell me, why do we have all of them packed into our ship!?" - Spike Spiegel from anime Cowboy Bebop
+  "Excuses are meaningless. The tougher things get, the more likely people are to come to their own conclusions." - Hachiman Hikigaya from anime Yahari Ore No Seishun Love Come Wa Machigatteiru
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:56:58 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:58:32 by fiandev@bot.
