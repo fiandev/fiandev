@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Aku bersumpah demi kebanggaan Quincy...Aku akan MEMBUNUHmu!" - Uryuu Ishida dari anime Bleach
+  "Ada tiga hal yang paling saya benci: Anak-anak, hewan peliharaan, dan wanita dengan sikap. Jadi beri tahu saya, mengapa kami memasukkan semuanya ke dalam kapal kami!?" - Spike Spiegel dari anime Cowboy Bebop
   
   # English
-  "I swear by the pride of the Quincy...I will KILL you!" - Uryuu Ishida from anime Bleach
+  "There are three things I hate the most: Kids, pets, and women with attitude. So tell me, why do we have all of them packed into our ship!?" - Spike Spiegel from anime Cowboy Bebop
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:55:30 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:56:58 by fiandev@bot.
