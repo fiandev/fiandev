@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Orang-orang memiliki kekuatan untuk mengatasi rintangan mereka – semua orang bisa." - Belldandy dari anime Aah! Megami-Sama
+  "Makan kentang macho peluru!" - South Italy dari anime Axis Powers: Hetalia
   
   # English
-  "People have the strength to overcome their obstacles – everyone can." - Belldandy from anime Aah! Megami-Sama
+  "Eat bullets macho potato!" - South Italy from anime Axis Powers: Hetalia
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:50:51 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:52:20 by fiandev@bot.
