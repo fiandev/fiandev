@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Jangan sentuh jeruk Bellemere-san dengan tangan kotormu! Saya tidak akan memberikan uang itu kepada Anda. Uang itu adalah..." - Nami dari anime One Piece
+  "Saya tidak akan menanyakan apa yang Anda inginkan. Saya hanya berharap itu menjadi kenyataan dengan kedua tangan Anda sendiri. (kepada Kyo)" - Sohma Yuki dari anime Fruits Basket
   
   # English
-  "Don't touch Bellemere-san's orange with your dirty hands! I won't give that money to you. That money is..." - Nami from anime One Piece
+  "I won't ask what you wish for. I only hope it comes true by your own two hands. (to Kyo)" - Sohma Yuki from anime Fruits Basket
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:28:53 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:30:31 by fiandev@bot.
