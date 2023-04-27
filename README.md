@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Bisakah Anda membantu saya? Bisakah kamu membunuhku dengan taringmu? Bisakah kamu masih tidak memaafkanku? Apakah saya masih seorang pengkhianat?" - Hige dari anime Wolf's Rain
+  "Seberapa baik atau buruk kita melakukan penyergapan akan berdampak besar pada perang ini dan berapa banyak korban yang kita derita. Jika Anda ingin melindungi teman dan keluarga Anda, satu-satunya hal yang harus Anda pikirkan adalah bagaimana membuat operasi ini sukses!" - Kankuro dari anime Naruto
   
   # English
-  "Can you do me a favor? Could you kill me with your fangs? Can you still not forgive me? Am I still a traitor?" - Hige from anime Wolf's Rain
+  "How well or poorly we execute our ambush will have a huge impact on this war and how many casualties we suffer. If you wanna protect your friends and family, the only thing you should be thinking about is how to make this operation a success!" - Kankuro from anime Naruto
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 15:10:38 by fiandev@bot.
+  > Auto updated at 2023-04-27 15:12:10 by fiandev@bot.
