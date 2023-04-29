@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Bahkan jika saya harus membawa semua kejahatan di dunia ini, itu tidak masalah. Jika itu bisa menyelamatkan dunia, maka saya akan dengan senang hati menerimanya." - Emiya Kiritsugu dari anime Fate/zero
+  "Untuk mewujudkan impian Anda, Anda harus memiliki mimpi terlebih dahulu. Anda dapat memiliki gambaran, keinginan, atau keinginan dari apa yang Anda inginkan. Jangan lupakan itu, dan teruslah berharap untuk itu. Itulah langkah pertama untuk mewujudkan impian Anda." - Kuze Shuuichi dari anime Ef - A Fairy Tale Of The Two
   
   # English
-  "Even if I am to carry all the evils of this world, it won't matter. If that can save the world, then I'd gladly accept it." - Emiya Kiritsugu from anime Fate/zero
+  "To fulfill your dream, you need to have a dream first. You can have an image, a desire, or a wish of what you want to become. Don't forget about it, and keep wishing for it. That's the first step to fulfilling your dream." - Kuze Shuuichi from anime Ef - A Fairy Tale Of The Two
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 18:12:10 by fiandev@bot.
+  > Auto updated at 2023-04-29 18:27:46 by fiandev@bot.
