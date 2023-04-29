@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Hidup tanpa judi seperti sushi tanpa wasabi!" - Gintoki Sakata dari anime Gintama
+  "Hal-hal menjadi menarik sekarang." - Near dari anime Death Note
   
   # English
-  "A life without gambling is like sushi without wasabi!" - Gintoki Sakata from anime Gintama
+  "Things are getting interesting now." - Near from anime Death Note
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 16:54:21 by fiandev@bot.
+  > Auto updated at 2023-04-29 17:09:54 by fiandev@bot.
