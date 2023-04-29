@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Ada dua hal yang ditakuti orang... yaitu kematian dan rasa malu. Mereka yang mencoba mengatasi kematian hanyalah orang bodoh, tetapi saya tidak akan menertawakan mereka yang mencoba mengatasi rasa malu mereka. Saya suka orang-orang idiot semacam itu." - Gintoki Sakata dari anime Gintama
+  "Jika saya membunuh Anda, itu berarti saya akan menjadi orang yang paling dekat dengan Anda ketika Anda berada di ranjang kematian Anda. Bukankah itu romantis?" - Senjougahara Hitagi dari anime Bakemonogatari
   
   # English
-  "There are two things people fear... those are death and embarrassment. Those who try to overcome death are just idiots, but I won't laugh at those who try to overcome their embarrassment. I like those kind of idiots." - Gintoki Sakata from anime Gintama
+  "If I kill you, that means I'll be the one closest to you when you're on your deathbed. Isn't it romantic?" - Senjougahara Hitagi from anime Bakemonogatari
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 20:01:16 by fiandev@bot.
+  > Auto updated at 2023-04-29 20:16:52 by fiandev@bot.
