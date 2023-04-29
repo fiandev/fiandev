@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Jika itu bisa menjadi kenyataan, hanya ini yang saya inginkan. Akan lebih baik jika kita hanya bermain poker dan tidak ada yang mati." - Allen Walker dari anime D.Gray-man
+  "Kekerasan adalah kekuatan terbesar dunia!" - Meruem dari anime Hunter X Hunter
   
   # English
-  "If it could come true, this is all I'd want. It would have been good if we just played poker and nobody died." - Allen Walker from anime D.Gray-man
+  "Violence is the greatest power of the world!" - Meruem from anime Hunter X Hunter
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 12:44:55 by fiandev@bot.
+  > Auto updated at 2023-04-29 13:00:33 by fiandev@bot.
