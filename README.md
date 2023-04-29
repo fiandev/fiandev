@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Tidak ada yang peduli siapa saya sampai saya memakai topeng." - Obito Uchiha dari anime Naruto
+  "Perpisahan itu seperti sisi lain dari sebuah koin. Itu hanya akan terjadi ketika ada pertemuan. Daripada takut akan hari dimana kita harus berpisah, bukankah seharusnya kita bahagia karena kita memiliki kesempatan untuk bertemu hari ini?" - Gintoki Sakata dari anime Gintama
   
   # English
-  "No one cared who I was until I put on a mask." - Obito Uchiha from anime Naruto
+  "A farewell is like the other side of a coin. It will only happen when there is an encounter. Rather than dreading the day we have to part, shouldn't we be happy that we had the chance to meet today instead?" - Gintoki Sakata from anime Gintama
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 21:03:38 by fiandev@bot.
+  > Auto updated at 2023-04-29 21:19:10 by fiandev@bot.
