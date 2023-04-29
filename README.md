@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "*berbicara tentang Naruto* Anak ini... membuatku penasaran tanpa akhir!" - Orochimaru dari anime Naruto
+  "Air mata palsu dapat merugikan orang lain, sedangkan senyum palsu hanya merugikan diri sendiri." - C.C. dari anime Code Geass: Lelouch of the Rebellion
   
   # English
-  "*talking about Naruto* This child... intrigues me to no end!" - Orochimaru from anime Naruto
+  "Fake tears can harm others, while a fake smile only harms oneself." - C.C. from anime Code Geass: Lelouch of the Rebellion
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-27 16:04:41 by fiandev@bot.
+  > Auto updated at 2023-04-29 11:42:26 by fiandev@bot.
