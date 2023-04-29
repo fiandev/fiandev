@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Tetapi bahkan jika saya bertindak sedih karenanya, tidak ada yang akan berubah. Bahkan jika aku menangis, tidak ada yang akan berubah." - Yoshino Takigawa dari anime Zetsuen No Tempest
+  "Saya tidak peduli lagi dengan apa yang dilakukan orang normal. Saya akan menjalani hidup saya seperti yang saya inginkan." - Iori Nagase dari anime Kokoro Connect
   
   # English
-  "But even if I acted sad over it, nothing would change. Even if I cry, nothing would change." - Yoshino Takigawa from anime Zetsuen No Tempest
+  "I don't care what normal people do anymore. I'm going to live my life the way that I want to." - Iori Nagase from anime Kokoro Connect
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 15:36:22 by fiandev@bot.
+  > Auto updated at 2023-04-29 15:51:54 by fiandev@bot.
