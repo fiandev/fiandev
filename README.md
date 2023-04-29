@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Manusia seharusnya tidak mengabaikan sesuatu yang tidak dapat mereka pahami sambil juga mencoba untuk mendefinisikannya." - Keima Katsuragi dari anime Kami Nomi zo Shiru Sekai
+  "Hidup tanpa judi seperti sushi tanpa wasabi!" - Gintoki Sakata dari anime Gintama
   
   # English
-  "Humans shouldn't just disregard something they cannot comprehend while also trying to define it." - Keima Katsuragi from anime Kami Nomi zo Shiru Sekai
+  "A life without gambling is like sushi without wasabi!" - Gintoki Sakata from anime Gintama
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 16:38:47 by fiandev@bot.
+  > Auto updated at 2023-04-29 16:54:21 by fiandev@bot.
