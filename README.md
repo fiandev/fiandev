@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Bangun untuk kenyataan! Tidak ada yang berjalan sesuai rencana di dunia ini. Semakin lama Anda hidup, semakin Anda menyadari bahwa dalam kenyataan ini hanya ada rasa sakit, penderitaan, dan kesia-siaan." - Madara Uchiha dari anime Naruto
+  "Jangan berpikir bahwa saya besok akan sama dengan saya hari ini. Anda sebaiknya berhati-hati." - Hideki Hinata dari anime Angel Beats!
   
   # English
-  "Wake up to reality! Nothing ever goes as planned in this world. The longer you live, the more you realize that in this reality only pain, suffering and futility exist." - Madara Uchiha from anime Naruto
+  "Don't think that the me tomorrow will be the same as the me today. You'd better be careful." - Hideki Hinata from anime Angel Beats!
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 15:05:10 by fiandev@bot.
+  > Auto updated at 2023-04-29 15:20:48 by fiandev@bot.
