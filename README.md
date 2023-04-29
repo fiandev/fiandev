@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Air mata palsu dapat merugikan orang lain, sedangkan senyum palsu hanya merugikan diri sendiri." - C.C. dari anime Code Geass: Lelouch of the Rebellion
+  "Kita semua sama. Tidak ada yang benar-benar ingat hari kelahirannya. Kita semua harus mempercayai kata-kata orang lain tentang masalah ini. Tidak masalah apakah itu benar atau tidak. Hanya memiliki ulang tahun membuat seseorang bahagia saya pikir." - Aizen Sousuke dari anime Bleach
   
   # English
-  "Fake tears can harm others, while a fake smile only harms oneself." - C.C. from anime Code Geass: Lelouch of the Rebellion
+  "We're all the same. No one really remembers the day he was born. We all have to trust another's word on the matter. It doesn't matter if it's true or not. Just having a birthday makes one happy I think." - Aizen Sousuke from anime Bleach
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 11:42:26 by fiandev@bot.
+  > Auto updated at 2023-04-29 11:58:05 by fiandev@bot.
