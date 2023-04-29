@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Hal-hal menjadi menarik sekarang." - Near dari anime Death Note
+  "Selama aku bisa bersamamu, aku tidak peduli apa kata orang atau seberapa besar aku membencimu. Selama aku bisa bersama orang yang kucintai, itu saja yang membuatnya baik-baik saja. Itu yang saya dambakan." - Yuzuki Eba dari anime Kimi no Iru Machi
   
   # English
-  "Things are getting interesting now." - Near from anime Death Note
+  "As long as I can be with you, I dont care what anyone says or how much I’m detested. As long as I can be with the one I love, that alone makes it okay. That’s what I longed for." - Yuzuki Eba from anime Kimi no Iru Machi
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 17:09:54 by fiandev@bot.
+  > Auto updated at 2023-04-29 17:25:32 by fiandev@bot.
