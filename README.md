@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "*Untuk Tayuya* Berapa kali aku harus memberitahumu? Langkah pertama selalu tipuan. Ini adalah hal yang paling mendasar, untuk mendapatkan pukulan dengan langkah kedua." - Nara Shikamaru dari anime Naruto
+  "Seolah-olah aku akan jatuh dengan mudah, tolol." - Yu Kanda dari anime D.Gray-man
   
   # English
-  "*To Tayuya* How many times do I have to tell you? The first move is always a feint. It's the most basic thing, to land a hit with the second move." - Nara Shikamaru from anime Naruto
+  "As If I'd go down that easily, dumbass." - Yu Kanda from anime D.Gray-man
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 22:05:54 by fiandev@bot.
+  > Auto updated at 2023-04-29 22:21:33 by fiandev@bot.
