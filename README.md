@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Aku bersumpah dengan Atsuya bahwa aku akan menjadi lebih kuat dengannya." - Fubuki Shirou dari anime Inazuma Eleven
+  "[berpikir] Saya hanya mengambil keluarga sebagai pasien dan saya masih bekerja sampai mati." - Sohma Hatori dari anime Fruits Basket
   
   # English
-  "I swore with Atsuya that I would become stronger with him." - Fubuki Shirou from anime Inazuma Eleven
+  "[thinking] I only take family as patients and I still get worked to death." - Sohma Hatori from anime Fruits Basket
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 18:58:53 by fiandev@bot.
+  > Auto updated at 2023-04-29 19:14:28 by fiandev@bot.
