@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Pria bukanlah pria di medan perang. Kita berubah menjadi makhluk lain. Kamu bisa melakukan hal yang paling kejam... Tidak peduli itu perintah atau bukan. Untuk melindungi diri sendiri, pikiran Anda menutup semua emosi yang Anda miliki. Ini seperti pintu baja. Tapi begitu perang berakhir, Anda tidak bisa menutupnya selamanya." - Fullmetal Alchemist dari anime Fullmetal Alchemist
+  "Ada dua hal yang ditakuti orang... yaitu kematian dan rasa malu. Mereka yang mencoba mengatasi kematian hanyalah orang bodoh, tetapi saya tidak akan menertawakan mereka yang mencoba mengatasi rasa malu mereka. Saya suka orang-orang idiot semacam itu." - Gintoki Sakata dari anime Gintama
   
   # English
-  "Men are not men on the battlefield. We turn into some other creature. You can do the cruelest things... It doesn't even matter if it's an order or not. To protect yourself, your mind shuts out any emotions you have. It's like a steel door. But once the war is over, you can't keep it closed forever. " - Fullmetal Alchemist from anime Fullmetal Alchemist
+  "There are two things people fear... those are death and embarrassment. Those who try to overcome death are just idiots, but I won't laugh at those who try to overcome their embarrassment. I like those kind of idiots." - Gintoki Sakata from anime Gintama
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 19:45:45 by fiandev@bot.
+  > Auto updated at 2023-04-29 20:01:16 by fiandev@bot.
