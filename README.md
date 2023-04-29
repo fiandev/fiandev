@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Mungkin ini hanya cahaya pagi, tapi dia terlihat sangat keren berdiri di sana dengan pedangnya. *tentang Inuyasha*" - Kagome Higurashi dari anime Inuyasha
+  "Bangun untuk kenyataan! Tidak ada yang berjalan sesuai rencana di dunia ini. Semakin lama Anda hidup, semakin Anda menyadari bahwa dalam kenyataan ini hanya ada rasa sakit, penderitaan, dan kesia-siaan." - Madara Uchiha dari anime Naruto
   
   # English
-  "Maybe it's just the morning light, but he looks pretty cool standing there with his sword. *about Inuyasha*" - Kagome Higurashi from anime Inuyasha
+  "Wake up to reality! Nothing ever goes as planned in this world. The longer you live, the more you realize that in this reality only pain, suffering and futility exist." - Madara Uchiha from anime Naruto
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 14:49:38 by fiandev@bot.
+  > Auto updated at 2023-04-29 15:05:10 by fiandev@bot.
