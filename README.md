@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Karena aku mencintaimu, aku ingin mencabik-cabikmu. Aku ingin menumpuk mayat di depanmu." - Kazutaka Muraki dari anime Yami no Matsuei
+  "Mungkin ini hanya cahaya pagi, tapi dia terlihat sangat keren berdiri di sana dengan pedangnya. *tentang Inuyasha*" - Kagome Higurashi dari anime Inuyasha
   
   # English
-  "Because I love you, I want to rip you apart. I want to pile corpses before you." - Kazutaka Muraki from anime Yami no Matsuei
+  "Maybe it's just the morning light, but he looks pretty cool standing there with his sword. *about Inuyasha*" - Kagome Higurashi from anime Inuyasha
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 14:33:57 by fiandev@bot.
+  > Auto updated at 2023-04-29 14:49:38 by fiandev@bot.
