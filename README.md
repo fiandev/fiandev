@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Kekerasan adalah kekuatan terbesar dunia!" - Meruem dari anime Hunter X Hunter
+  "Di dunia yang gila ini, tidak ada gunanya memainkan permainan menyalahkan." - Mahiro Fuwa dari anime Zetsuen No Tempest
   
   # English
-  "Violence is the greatest power of the world!" - Meruem from anime Hunter X Hunter
+  "In this crazy-ass world, there's no point in playing the blame game." - Mahiro Fuwa from anime Zetsuen No Tempest
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 13:00:33 by fiandev@bot.
+  > Auto updated at 2023-04-29 13:16:10 by fiandev@bot.
