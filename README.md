@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Kita semua sama. Tidak ada yang benar-benar ingat hari kelahirannya. Kita semua harus mempercayai kata-kata orang lain tentang masalah ini. Tidak masalah apakah itu benar atau tidak. Hanya memiliki ulang tahun membuat seseorang bahagia saya pikir." - Aizen Sousuke dari anime Bleach
+  "*kepada Nia* Saya tidak sepenuhnya mengerti, tetapi tidak masalah mengapa Anda dilahirkan, atau jika Anda seorang putri. Nia di sini adalah kamu. Jadi tidak apa-apa jika Anda menjadi diri sendiri." - Simon dari anime Tengen Toppa Gurren Lagann
   
   # English
-  "We're all the same. No one really remembers the day he was born. We all have to trust another's word on the matter. It doesn't matter if it's true or not. Just having a birthday makes one happy I think." - Aizen Sousuke from anime Bleach
+  "*to Nia* I don't fully understand, but it doesn't matter why you were born, or if you're a princess. The Nia right here is you. So it's okay if you just be yourself." - Simon from anime Tengen Toppa Gurren Lagann
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 11:58:05 by fiandev@bot.
+  > Auto updated at 2023-04-29 12:13:41 by fiandev@bot.
