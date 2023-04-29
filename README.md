@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "[berpikir] Saya hanya mengambil keluarga sebagai pasien dan saya masih bekerja sampai mati." - Sohma Hatori dari anime Fruits Basket
+  "Bagaimana bau darah saya? Apakah Anda ingin melahap saya sekarang?" - Alois Trancy dari anime Kuroshitsuji
   
   # English
-  "[thinking] I only take family as patients and I still get worked to death." - Sohma Hatori from anime Fruits Basket
+  "How does my blood smell? Do you want to devour me now?" - Alois Trancy from anime Kuroshitsuji
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 19:14:28 by fiandev@bot.
+  > Auto updated at 2023-04-29 19:30:08 by fiandev@bot.
