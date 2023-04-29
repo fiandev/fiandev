@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Aturan membuat dunia bekerja. Mereka tidak melindungi Anda." - Osamu Mikumo dari anime World Trigger
+  "Terkadang seseorang harus kalah dalam pertempuran untuk memenangkan perang." - Sylphy dari anime Amagi Brilliant Park
   
   # English
-  "Rules make the world work. They don't protect you." - Osamu Mikumo from anime World Trigger
+  "Sometimes one must lose the battle in order to win the war." - Sylphy from anime Amagi Brilliant Park
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 17:41:03 by fiandev@bot.
+  > Auto updated at 2023-04-29 17:56:38 by fiandev@bot.
