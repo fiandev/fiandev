@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Jika saya membunuh Anda, itu berarti saya akan menjadi orang yang paling dekat dengan Anda ketika Anda berada di ranjang kematian Anda. Bukankah itu romantis?" - Senjougahara Hitagi dari anime Bakemonogatari
+  "Apapun yang terjadi, aku akan selalu menjadi temanmu. Tidak peduli seberapa jauh Anda pergi, saya akan memikirkan Anda setiap hari." - Kamikita Komari dari anime Little Busters!
   
   # English
-  "If I kill you, that means I'll be the one closest to you when you're on your deathbed. Isn't it romantic?" - Senjougahara Hitagi from anime Bakemonogatari
+  "No matter what, I’ll be always be your friend. No matter how far you go, I’ll be thinking about you everyday." - Kamikita Komari from anime Little Busters!
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 20:16:52 by fiandev@bot.
+  > Auto updated at 2023-04-29 20:32:30 by fiandev@bot.
