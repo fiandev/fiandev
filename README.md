@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Untuk mewujudkan impian Anda, Anda harus memiliki mimpi terlebih dahulu. Anda dapat memiliki gambaran, keinginan, atau keinginan dari apa yang Anda inginkan. Jangan lupakan itu, dan teruslah berharap untuk itu. Itulah langkah pertama untuk mewujudkan impian Anda." - Kuze Shuuichi dari anime Ef - A Fairy Tale Of The Two
+  "Mendidik orang heteroseksual tentang anime, adalah kesenangan bagi seorang otaku." - Kagami Junichirou dari anime Denpa Kyoushi
   
   # English
-  "To fulfill your dream, you need to have a dream first. You can have an image, a desire, or a wish of what you want to become. Don't forget about it, and keep wishing for it. That's the first step to fulfilling your dream." - Kuze Shuuichi from anime Ef - A Fairy Tale Of The Two
+  "Educating a heterosexual person about anime, is a joy for an otaku." - Kagami Junichirou from anime Denpa Kyoushi
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 18:27:46 by fiandev@bot.
+  > Auto updated at 2023-04-29 18:43:18 by fiandev@bot.
