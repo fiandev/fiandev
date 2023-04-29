@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Terkadang seseorang harus kalah dalam pertempuran untuk memenangkan perang." - Sylphy dari anime Amagi Brilliant Park
+  "Bahkan jika saya harus membawa semua kejahatan di dunia ini, itu tidak masalah. Jika itu bisa menyelamatkan dunia, maka saya akan dengan senang hati menerimanya." - Emiya Kiritsugu dari anime Fate/zero
   
   # English
-  "Sometimes one must lose the battle in order to win the war." - Sylphy from anime Amagi Brilliant Park
+  "Even if I am to carry all the evils of this world, it won't matter. If that can save the world, then I'd gladly accept it." - Emiya Kiritsugu from anime Fate/zero
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 17:56:38 by fiandev@bot.
+  > Auto updated at 2023-04-29 18:12:10 by fiandev@bot.
