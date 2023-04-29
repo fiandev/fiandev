@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Jangan berpikir bahwa saya besok akan sama dengan saya hari ini. Anda sebaiknya berhati-hati." - Hideki Hinata dari anime Angel Beats!
+  "Tetapi bahkan jika saya bertindak sedih karenanya, tidak ada yang akan berubah. Bahkan jika aku menangis, tidak ada yang akan berubah." - Yoshino Takigawa dari anime Zetsuen No Tempest
   
   # English
-  "Don't think that the me tomorrow will be the same as the me today. You'd better be careful." - Hideki Hinata from anime Angel Beats!
+  "But even if I acted sad over it, nothing would change. Even if I cry, nothing would change." - Yoshino Takigawa from anime Zetsuen No Tempest
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 15:20:48 by fiandev@bot.
+  > Auto updated at 2023-04-29 15:36:22 by fiandev@bot.
