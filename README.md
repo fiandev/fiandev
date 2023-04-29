@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Di dunia yang gila ini, tidak ada gunanya memainkan permainan menyalahkan." - Mahiro Fuwa dari anime Zetsuen No Tempest
+  "Jika Anda menghargai kehidupan sehari-hari yang damai, lindungilah untuk diri Anda sendiri." - Gai Tsutsugami dari anime Guilty Crown
   
   # English
-  "In this crazy-ass world, there's no point in playing the blame game." - Mahiro Fuwa from anime Zetsuen No Tempest
+  "If you value your peaceful everyday life, protect it for yourself." - Gai Tsutsugami from anime Guilty Crown
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 13:16:10 by fiandev@bot.
+  > Auto updated at 2023-04-29 13:31:40 by fiandev@bot.
