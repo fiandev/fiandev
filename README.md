@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Selama aku bisa bersamamu, aku tidak peduli apa kata orang atau seberapa besar aku membencimu. Selama aku bisa bersama orang yang kucintai, itu saja yang membuatnya baik-baik saja. Itu yang saya dambakan." - Yuzuki Eba dari anime Kimi no Iru Machi
+  "Aturan membuat dunia bekerja. Mereka tidak melindungi Anda." - Osamu Mikumo dari anime World Trigger
   
   # English
-  "As long as I can be with you, I dont care what anyone says or how much I’m detested. As long as I can be with the one I love, that alone makes it okay. That’s what I longed for." - Yuzuki Eba from anime Kimi no Iru Machi
+  "Rules make the world work. They don't protect you." - Osamu Mikumo from anime World Trigger
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 17:25:32 by fiandev@bot.
+  > Auto updated at 2023-04-29 17:41:03 by fiandev@bot.
