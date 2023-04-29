@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Era ini tidak begitu sederhana sehingga Anda dapat meletakkan segalanya di pundak Anda dan menjadi satu-satunya pengorbanan. Dan, pada saat yang sama, kebahagiaan seseorang juga tidak sesederhana itu. Jika Anda harus jatuh sebagai pengorbanan, seorang gadis yang datang ke Kyoto dengan satu keinginan untuk melihat Anda pasti akan menghadapi kemalangan. Ingat itu. Tidak peduli seberapa kuat Anda menjadi, Anda hanyalah seorang manusia. Anda tidak perlu menjadi Buddha, atau pembunuh." - Seijuro Hiko dari anime Rurouni Kenshin
+  "*Untuk Tayuya* Berapa kali aku harus memberitahumu? Langkah pertama selalu tipuan. Ini adalah hal yang paling mendasar, untuk mendapatkan pukulan dengan langkah kedua." - Nara Shikamaru dari anime Naruto
   
   # English
-  "This era is not so simple that you can put everything on your shoulders and be the only sacrifice. And, at the same time, one person's happiness isn't that simple, either. If you should fall as a sacrifice, one girl who came to Kyoto with the one wish to see you will definitely face misfortune. Remember that. No matter how strong you get, you are just a human being. There is no need for you to either become Buddha, or a murderer." - Seijuro Hiko from anime Rurouni Kenshin
+  "*To Tayuya* How many times do I have to tell you? The first move is always a feint. It's the most basic thing, to land a hit with the second move." - Nara Shikamaru from anime Naruto
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 21:50:22 by fiandev@bot.
+  > Auto updated at 2023-04-29 22:05:54 by fiandev@bot.
