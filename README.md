@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Mendidik orang heteroseksual tentang anime, adalah kesenangan bagi seorang otaku." - Kagami Junichirou dari anime Denpa Kyoushi
+  "Aku bersumpah dengan Atsuya bahwa aku akan menjadi lebih kuat dengannya." - Fubuki Shirou dari anime Inazuma Eleven
   
   # English
-  "Educating a heterosexual person about anime, is a joy for an otaku." - Kagami Junichirou from anime Denpa Kyoushi
+  "I swore with Atsuya that I would become stronger with him." - Fubuki Shirou from anime Inazuma Eleven
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 18:43:18 by fiandev@bot.
+  > Auto updated at 2023-04-29 18:58:53 by fiandev@bot.
