@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Perpisahan itu seperti sisi lain dari sebuah koin. Itu hanya akan terjadi ketika ada pertemuan. Daripada takut akan hari dimana kita harus berpisah, bukankah seharusnya kita bahagia karena kita memiliki kesempatan untuk bertemu hari ini?" - Gintoki Sakata dari anime Gintama
+  "Hei, Tsubaki, sudah keluar dari sana. Anda belum kalah darinya, kan? Anda dapat menampilkan pertunjukan yang lebih baik dari itu, kembali ke atas panggung. Encore, encore. Encore Tsubaki, beri kami encore!" - Black Star dari anime Soul Eater
   
   # English
-  "A farewell is like the other side of a coin. It will only happen when there is an encounter. Rather than dreading the day we have to part, shouldn't we be happy that we had the chance to meet today instead?" - Gintoki Sakata from anime Gintama
+  "Hey, Tsubaki, come out of there already. You haven't lost to him, have you? You can put on a better show than that, come back out on stage. Encore, encore. Tsubaki encore, give us an encore!" - Black Star from anime Soul Eater
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 21:19:10 by fiandev@bot.
+  > Auto updated at 2023-04-29 21:34:45 by fiandev@bot.
