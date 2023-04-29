@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Bagaimana bau darah saya? Apakah Anda ingin melahap saya sekarang?" - Alois Trancy dari anime Kuroshitsuji
+  "Pria bukanlah pria di medan perang. Kita berubah menjadi makhluk lain. Kamu bisa melakukan hal yang paling kejam... Tidak peduli itu perintah atau bukan. Untuk melindungi diri sendiri, pikiran Anda menutup semua emosi yang Anda miliki. Ini seperti pintu baja. Tapi begitu perang berakhir, Anda tidak bisa menutupnya selamanya." - Fullmetal Alchemist dari anime Fullmetal Alchemist
   
   # English
-  "How does my blood smell? Do you want to devour me now?" - Alois Trancy from anime Kuroshitsuji
+  "Men are not men on the battlefield. We turn into some other creature. You can do the cruelest things... It doesn't even matter if it's an order or not. To protect yourself, your mind shuts out any emotions you have. It's like a steel door. But once the war is over, you can't keep it closed forever. " - Fullmetal Alchemist from anime Fullmetal Alchemist
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 19:30:08 by fiandev@bot.
+  > Auto updated at 2023-04-29 19:45:45 by fiandev@bot.
