@@ -15,7 +15,7 @@ jobs:
       - name: Sleep for seconds
         uses: jakejarvis/wait-action@master
         with:
-          time: "1m"
+          time: "15m"
       - name: API kyoko
         id: kyoko
         run: |+
