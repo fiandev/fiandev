@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Apapun yang terjadi, aku akan selalu menjadi temanmu. Tidak peduli seberapa jauh Anda pergi, saya akan memikirkan Anda setiap hari." - Kamikita Komari dari anime Little Busters!
+  "Kami pernah berjuang bersama untuk sebuah cita-cita dengan pedang kami. Itu bukan untuk kekuasaan atau untuk kemuliaan, tetapi untuk menciptakan dunia yang damai di mana orang bisa hidup tanpa rasa takut. Dan jika Anda harus melupakan itu, lalu untuk apa kita melawan revolusi?" - Kenshin Himura dari anime Rurouni Kenshin
   
   # English
-  "No matter what, I’ll be always be your friend. No matter how far you go, I’ll be thinking about you everyday." - Kamikita Komari from anime Little Busters!
+  "We once fought together for an ideal with our swords. It wasn't for power or for glory, but to create a peaceful world where people could live without fear. And if you should forget about that, then what did we fight the revolution for? " - Kenshin Himura from anime Rurouni Kenshin
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 20:32:30 by fiandev@bot.
+  > Auto updated at 2023-04-29 20:48:03 by fiandev@bot.
