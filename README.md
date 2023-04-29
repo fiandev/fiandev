@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Saya selalu bertanya pada diri sendiri pertanyaan ini. Apakah aku sebuah kenangan? atau apakah ingatan itu... AKU? Apakah kita hanyalah kumpulan kenangan?" - Motoharu Yano dari anime Bokura ga Ita
+  "Karena aku mencintaimu, aku ingin mencabik-cabikmu. Aku ingin menumpuk mayat di depanmu." - Kazutaka Muraki dari anime Yami no Matsuei
   
   # English
-  "I've always been asking myself this question. Am I a memory? or is the memory... ME? Are we nothing but a collection of memories?" - Motoharu Yano from anime Bokura ga Ita
+  "Because I love you, I want to rip you apart. I want to pile corpses before you." - Kazutaka Muraki from anime Yami no Matsuei
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 14:18:20 by fiandev@bot.
+  > Auto updated at 2023-04-29 14:33:57 by fiandev@bot.
