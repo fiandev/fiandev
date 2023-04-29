@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Saya tidak peduli lagi dengan apa yang dilakukan orang normal. Saya akan menjalani hidup saya seperti yang saya inginkan." - Iori Nagase dari anime Kokoro Connect
+  "Teman terhubung dengan hati! Anda tidak bisa begitu saja membilas sesuatu yang ternoda di jiwa Anda!" - Ling Yao dari anime Fullmetal Alchemist: Brotherhood
   
   # English
-  "I don't care what normal people do anymore. I'm going to live my life the way that I want to." - Iori Nagase from anime Kokoro Connect
+  "Friends are connected by heart! You can't just rinse off something that's stained on your soul!" - Ling Yao from anime Fullmetal Alchemist: Brotherhood
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 15:51:54 by fiandev@bot.
+  > Auto updated at 2023-04-29 16:07:33 by fiandev@bot.
