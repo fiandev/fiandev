@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Kami pernah berjuang bersama untuk sebuah cita-cita dengan pedang kami. Itu bukan untuk kekuasaan atau untuk kemuliaan, tetapi untuk menciptakan dunia yang damai di mana orang bisa hidup tanpa rasa takut. Dan jika Anda harus melupakan itu, lalu untuk apa kita melawan revolusi?" - Kenshin Himura dari anime Rurouni Kenshin
+  "Tidak ada yang peduli siapa saya sampai saya memakai topeng." - Obito Uchiha dari anime Naruto
   
   # English
-  "We once fought together for an ideal with our swords. It wasn't for power or for glory, but to create a peaceful world where people could live without fear. And if you should forget about that, then what did we fight the revolution for? " - Kenshin Himura from anime Rurouni Kenshin
+  "No one cared who I was until I put on a mask." - Obito Uchiha from anime Naruto
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 20:48:03 by fiandev@bot.
+  > Auto updated at 2023-04-29 21:03:38 by fiandev@bot.
