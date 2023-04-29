@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Teman terhubung dengan hati! Anda tidak bisa begitu saja membilas sesuatu yang ternoda di jiwa Anda!" - Ling Yao dari anime Fullmetal Alchemist: Brotherhood
+  "Mulai hari ini... Aku akan bersamamu! Aku akan selalu berada di sisimu! (kepada seorang Kyo muda)" - Sohma Kagura dari anime Fruits Basket
   
   # English
-  "Friends are connected by heart! You can't just rinse off something that's stained on your soul!" - Ling Yao from anime Fullmetal Alchemist: Brotherhood
+  "Starting today... I'll be with you! I'll always be by your side! (to a young Kyo)" - Sohma Kagura from anime Fruits Basket
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 16:07:33 by fiandev@bot.
+  > Auto updated at 2023-04-29 16:23:12 by fiandev@bot.
