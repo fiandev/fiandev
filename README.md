@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Hidup normal saja. Anda akan lebih baik jika Anda bisa menangkap ikan. Gali gua sehingga Anda dapat berlayar kapan pun Anda mau. Ini tidak akan mudah. Tetapi Anda memiliki jumlah waktu yang tidak terbatas di depan Anda." - Ginko dari anime Mushishi
+  "Saya selalu bertanya pada diri sendiri pertanyaan ini. Apakah aku sebuah kenangan? atau apakah ingatan itu... AKU? Apakah kita hanyalah kumpulan kenangan?" - Motoharu Yano dari anime Bokura ga Ita
   
   # English
-  "Just live normally. You'll be better off if you can catch some fish. Dig up the caves so you can set sail whenever you need to. It wouldn't be easy. But you have an endless amount of time ahead of you." - Ginko from anime Mushishi
+  "I've always been asking myself this question. Am I a memory? or is the memory... ME? Are we nothing but a collection of memories?" - Motoharu Yano from anime Bokura ga Ita
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 14:02:48 by fiandev@bot.
+  > Auto updated at 2023-04-29 14:18:20 by fiandev@bot.
