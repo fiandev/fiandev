@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "*kepada Nia* Saya tidak sepenuhnya mengerti, tetapi tidak masalah mengapa Anda dilahirkan, atau jika Anda seorang putri. Nia di sini adalah kamu. Jadi tidak apa-apa jika Anda menjadi diri sendiri." - Simon dari anime Tengen Toppa Gurren Lagann
+  "Aku masih berpikir untuk melindungi kalian berdua...meskipun itu dianggap sebagai tindakan tabu oleh manusia." - Kaien Cross dari anime Vampire Knight
   
   # English
-  "*to Nia* I don't fully understand, but it doesn't matter why you were born, or if you're a princess. The Nia right here is you. So it's okay if you just be yourself." - Simon from anime Tengen Toppa Gurren Lagann
+  "I still think about protecting you two...even if it's considered as an act of taboo by humans." - Kaien Cross from anime Vampire Knight
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 12:13:41 by fiandev@bot.
+  > Auto updated at 2023-04-29 12:29:18 by fiandev@bot.
