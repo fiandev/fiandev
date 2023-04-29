@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Jika Anda menghargai kehidupan sehari-hari yang damai, lindungilah untuk diri Anda sendiri." - Gai Tsutsugami dari anime Guilty Crown
+  "Jika seseorang mulai melakukan hal yang benar, yang lain akan mengikuti." - Ronaldo Kuriki dari anime Devil Survivor 2
   
   # English
-  "If you value your peaceful everyday life, protect it for yourself." - Gai Tsutsugami from anime Guilty Crown
+  "If someone starts doing the right thing, the others will follow." - Ronaldo Kuriki from anime Devil Survivor 2
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 13:31:40 by fiandev@bot.
+  > Auto updated at 2023-04-29 13:47:15 by fiandev@bot.
