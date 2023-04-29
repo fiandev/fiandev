@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Mulai hari ini... Aku akan bersamamu! Aku akan selalu berada di sisimu! (kepada seorang Kyo muda)" - Sohma Kagura dari anime Fruits Basket
+  "Manusia seharusnya tidak mengabaikan sesuatu yang tidak dapat mereka pahami sambil juga mencoba untuk mendefinisikannya." - Keima Katsuragi dari anime Kami Nomi zo Shiru Sekai
   
   # English
-  "Starting today... I'll be with you! I'll always be by your side! (to a young Kyo)" - Sohma Kagura from anime Fruits Basket
+  "Humans shouldn't just disregard something they cannot comprehend while also trying to define it." - Keima Katsuragi from anime Kami Nomi zo Shiru Sekai
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 16:23:12 by fiandev@bot.
+  > Auto updated at 2023-04-29 16:38:47 by fiandev@bot.
