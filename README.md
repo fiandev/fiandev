@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Ketika hidup berubah menjadi lebih sulit, ubahlah dirimu menjadi lebih kuat." - Erza Scarlet dari anime Fairy Tail
+  "Ketika Anda hidup, hidup Anda akan berakhir cepat atau lambat. Tubuh akan kembali ke bumi. Rumput dan bunga akan tumbuh di atasnya. Jiwa akan memelihara hati... dan itu akan hidup di hati orang lain. Segala sesuatu di dunia ini mengalir dan beredar. Itu juga berlaku untuk kehidupan manusia." - Izumi Curtis dari anime Fullmetal Alchemist
   
   # English
-  "When life changes to be harder, change yourself to be stronger." - Erza Scarlet from anime Fairy Tail
+  "When you live, your life will end sooner or later. The body will return to the earth. Grass and flowers will grow on top of it. The soul will nourish the hearts... and it will live on in the hearts of other people. Everything in this world flows around and circulates. That goes for human lives too." - Izumi Curtis from anime Fullmetal Alchemist
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:35:58 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:37:26 by fiandev@bot.
