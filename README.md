@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Ayo menari... ah ya jangan takut." - TK dari anime Angel Beats!
+  "Aku tidak bilang telanjang, bodoh. Aku hanya tidak tahan melihatmu dengan pakaian itu." - Inuyasha dari anime Inuyasha
   
   # English
-  "Come on let's dance... aw yeah don't be afraid." - TK from anime Angel Beats!
+  "I didn't say get naked, stupid. I just can't stand seeing you in those clothes." - Inuyasha from anime Inuyasha
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:23:50 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:25:26 by fiandev@bot.
