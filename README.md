@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Saya bukan pahlawan. Saya tidak bisa membuat siapa pun senang dengan hasil apa pun. Saya hanya bisa melakukan apa yang saya anggap benar dengan saya tidak membenci pilihan saya di kemudian hari." - Osamu Mikumo dari anime World Trigger
+  "Dia adalah orang yang mengajari saya untuk memperdalam ikatan saya dengan orang-orang saya. Berkat dia, aku bisa mendapatkan kembali diriku yang sebenarnya. Desa itu memiliki dia, orang yang menghargai ikatan teman lebih dari siapa pun yang saya kenal. Naruto Uzumaki... Mengetahui dia dan teman-teman yang dia sayangi, mereka akan mengatasi bencana ini dan tumbuh lebih kuat darinya." - Gaara dari anime Naruto
   
   # English
-  "I am not a hero. I can't make anyone happy with any result. I can only do what I deem right with me not hating my choice at a later point." - Osamu Mikumo from anime World Trigger
+  "He was the one who taught me to deepen my bond with my people. Thanks to him, I was able to regain my true self. That village has him, the one who cherishes a friend's bond more than anyone I know. Naruto Uzumaki... Knowing him and the friends he holds so dear, they will overcome this disaster and grow even stronger from it." - Gaara from anime Naruto
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:38:59 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:40:28 by fiandev@bot.
