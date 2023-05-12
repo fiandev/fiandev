@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Aku tidak bilang telanjang, bodoh. Aku hanya tidak tahan melihatmu dengan pakaian itu." - Inuyasha dari anime Inuyasha
+  "Ah, kau membuatku menangis. Aku melaporkanmu ke komandan bodoh berambut panjang kami dan meminta izin untuk membunuhmu, senpai." - Fran dari anime Katekyo Hitman Reborn!
   
   # English
-  "I didn't say get naked, stupid. I just can't stand seeing you in those clothes." - Inuyasha from anime Inuyasha
+  "Ahh, you made me cry. I'm reporting you to our long-haired, idiotic commander and asking for permission to kill you, senpai." - Fran from anime Katekyo Hitman Reborn!
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:25:26 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:26:55 by fiandev@bot.
