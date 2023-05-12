@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Dunia memiliki terlalu banyak pahlawan. Itu membutuhkan monster." - Dracule Mihawk dari anime One Piece
+  "Bisakah dunia yang menarik ini benar-benar menjadi kenyataan?" - Lau dari anime Kuroshitsuji
   
   # English
-  "The world has too many heroes. It needs a monster." - Dracule Mihawk from anime One Piece
+  "Can a world this interesting actually be reality?" - Lau from anime Kuroshitsuji
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:31:29 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:32:56 by fiandev@bot.
