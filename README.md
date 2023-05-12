@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Menyelamatkan seseorang berarti tidak menyelamatkan orang lain." - Emiya Kiritsugu dari anime Fate/stay night
+  "Ayo menari... ah ya jangan takut." - TK dari anime Angel Beats!
   
   # English
-  "Saving someone means not saving someone else." - Emiya Kiritsugu from anime Fate/stay night
+  "Come on let's dance... aw yeah don't be afraid." - TK from anime Angel Beats!
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:22:19 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:23:50 by fiandev@bot.
