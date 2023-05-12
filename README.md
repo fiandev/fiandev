@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Sesuatu yang teduh seperti penyihir tidak mungkin ada." - Ushiromiya Battler dari anime Umineko no Naku Koro ni
+  "Diam. Jangan bicara dan terus berlari!" - Rukia Kuchiki dari anime Bleach
   
   # English
-  "Something as shady as a witch couldn't possibly exist." - Ushiromiya Battler from anime Umineko no Naku Koro ni
+  "Shut up. Don't talk and keep running!" - Rukia Kuchiki from anime Bleach
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:17:33 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:19:08 by fiandev@bot.
