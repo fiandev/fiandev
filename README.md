@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Bagus. Saya akan mengoreksi diri saya sendiri. Saya tidak punya pengalaman. Aku masih perawan. Lebih tepatnya, satu-satunya jenis gadis yang mau berbicara dengan perawan yang tidak menarik sepertimu adalah perawan yang terlambat berkembang sepertiku!" - Senjougahara Hitagi dari anime Bakemonogatari
+  "Biarkan aku meluruskan ini. Anda akan mengalahkan saya dengan creampuff dan elf?" - Seto Kaiba dari anime Yu-Gi-Oh!
   
   # English
-  "Fine. I'll correct myself. I have no experience. I'm a virgin. More to the point, the only kind of girl who'd talk to an unappealing virgin like you are late-bloomer virgins like me!" - Senjougahara Hitagi from anime Bakemonogatari
+  "Let me get this straight. You're going to defeat me with a creampuff and an elf?" - Seto Kaiba from anime Yu-Gi-Oh!
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:28:28 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:30:00 by fiandev@bot.
