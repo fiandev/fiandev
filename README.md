@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Diam. Jangan bicara dan terus berlari!" - Rukia Kuchiki dari anime Bleach
+  "(kepada Katara) Aku tahu siapa yang membunuh ibumu." - Zuko dari anime Avatar: The Last Airbender
   
   # English
-  "Shut up. Don't talk and keep running!" - Rukia Kuchiki from anime Bleach
+  "(to Katara) I know who killed your mother." - Zuko from anime Avatar: The Last Airbender
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:19:08 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:20:43 by fiandev@bot.
