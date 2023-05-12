@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Ah, kau membuatku menangis. Aku melaporkanmu ke komandan bodoh berambut panjang kami dan meminta izin untuk membunuhmu, senpai." - Fran dari anime Katekyo Hitman Reborn!
+  "Bagus. Saya akan mengoreksi diri saya sendiri. Saya tidak punya pengalaman. Aku masih perawan. Lebih tepatnya, satu-satunya jenis gadis yang mau berbicara dengan perawan yang tidak menarik sepertimu adalah perawan yang terlambat berkembang sepertiku!" - Senjougahara Hitagi dari anime Bakemonogatari
   
   # English
-  "Ahh, you made me cry. I'm reporting you to our long-haired, idiotic commander and asking for permission to kill you, senpai." - Fran from anime Katekyo Hitman Reborn!
+  "Fine. I'll correct myself. I have no experience. I'm a virgin. More to the point, the only kind of girl who'd talk to an unappealing virgin like you are late-bloomer virgins like me!" - Senjougahara Hitagi from anime Bakemonogatari
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:26:55 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:28:28 by fiandev@bot.
