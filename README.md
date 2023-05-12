@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "(kepada Katara) Aku tahu siapa yang membunuh ibumu." - Zuko dari anime Avatar: The Last Airbender
+  "Menyelamatkan seseorang berarti tidak menyelamatkan orang lain." - Emiya Kiritsugu dari anime Fate/stay night
   
   # English
-  "(to Katara) I know who killed your mother." - Zuko from anime Avatar: The Last Airbender
+  "Saving someone means not saving someone else." - Emiya Kiritsugu from anime Fate/stay night
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:20:43 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:22:19 by fiandev@bot.
