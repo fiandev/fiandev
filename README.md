@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Bisakah dunia yang menarik ini benar-benar menjadi kenyataan?" - Lau dari anime Kuroshitsuji
+  "Apa yang Anda katakan mungkin benar, bahwa ada perang yang terjadi di luar dunia kita. Tapi kami tidak setuju dengan itu! Kami tidak menyukai perang! Dan itulah mengapa kami memilih untuk berada di sini, di wilayah netral!" - Kira Yamato dari anime Mobile Suit Gundam Seed
   
   # English
-  "Can a world this interesting actually be reality?" - Lau from anime Kuroshitsuji
+  "What you say may be correct, that there is a war going on outside our world. But we don't agree with it! We dislike war! And that is why we chose to be here, in neutral territory!" - Kira Yamato from anime Mobile Suit Gundam Seed
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:32:56 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:34:30 by fiandev@bot.
