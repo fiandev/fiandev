@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Seolah-olah aku akan jatuh dengan mudah, tolol." - Yu Kanda dari anime D.Gray-man
+  "Siapapun bisa mati. Hiduplah yang membutuhkan keberanian." - Kenshin Himura dari anime Rurouni Kenshin
   
   # English
-  "As If I'd go down that easily, dumbass." - Yu Kanda from anime D.Gray-man
+  "Anyone can die. It's living that requires courage." - Kenshin Himura from anime Rurouni Kenshin
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-04-29 22:21:33 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:12:55 by fiandev@bot.
