@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Tuanku mempercayakanku banyak hal, dari hal-hal besar hingga hal-hal kecil. Sama saja bagimu hal-hal yang tidak terbatas, tidakkah kamu pikir sudah waktunya bagi kita, untuk menjadi orang yang mempercayakan bukan yang dititipkan, itu menyebalkan tapi aku tidak bisa mengatakan itu. Suatu hari nanti kamu akan menjadi orang yang mentraktir orang lain dengan ramen dan kamu akan dipanggil Master Naruto... Kita tidak bisa menjadi anak-anak selamanya, seperti Asuma dan Jiraiya, aku ingin menjadi sekeren mereka." - Nara Shikamaru dari anime Naruto
+  "Orang tidak pernah bisa benar-benar memahami satu sama lain! Itu sebabnya kami berkomunikasi dan mencoba memahami. Kita hanya bisa memahami diri kita sendiri melalui kebersamaan dengan orang lain!" - Riki Naoe dari anime Little Busters!
   
   # English
-  "My master entrusted me with a lot, from big things to little things. It's the same for you an unlimited number of things, don't you think it's about time for us, to be the ones who entrust not the entrusted, it's a pain in the ass but I can't say that. Someday you'll be the one to treat others to ramen and you'll be called Master Naruto... We can't stay kids forever, like Asuma and Jiraiya, I wanna be as cool as them." - Nara Shikamaru from anime Naruto
+  "People can never truly understand each other! That's why we communicate and try to understand. We can only understand ourselves through being with others!" - Riki Naoe from anime Little Busters!
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:42:03 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:43:32 by fiandev@bot.
