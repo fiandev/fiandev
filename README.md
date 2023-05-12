@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Siapapun bisa mati. Hiduplah yang membutuhkan keberanian." - Kenshin Himura dari anime Rurouni Kenshin
+  "Aku akan tetap di sisimu, temanku. Ketahuilah bahwa saya di sini, dan saya minta maaf. Aku minta maaf karena... Aku mengecewakanmu. Setelah menunggu 600 tahun saya membuat kesalahan pemula. Saya meremehkan musuh saya." - Amidamaru dari anime Shaman King
   
   # English
-  "Anyone can die. It's living that requires courage." - Kenshin Himura from anime Rurouni Kenshin
+  "I will stay by your side, my friend. Know that I am here, and that I am sorry. I am sorry that... I failed you. After waiting 600 years I made a beginner's mistake. I underestimated my enemy." - Amidamaru from anime Shaman King
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:12:55 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:14:24 by fiandev@bot.
