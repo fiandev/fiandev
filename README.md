@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Biarkan aku meluruskan ini. Anda akan mengalahkan saya dengan creampuff dan elf?" - Seto Kaiba dari anime Yu-Gi-Oh!
+  "Dunia memiliki terlalu banyak pahlawan. Itu membutuhkan monster." - Dracule Mihawk dari anime One Piece
   
   # English
-  "Let me get this straight. You're going to defeat me with a creampuff and an elf?" - Seto Kaiba from anime Yu-Gi-Oh!
+  "The world has too many heroes. It needs a monster." - Dracule Mihawk from anime One Piece
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:30:00 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:31:29 by fiandev@bot.
