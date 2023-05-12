@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Aku akan tetap di sisimu, temanku. Ketahuilah bahwa saya di sini, dan saya minta maaf. Aku minta maaf karena... Aku mengecewakanmu. Setelah menunggu 600 tahun saya membuat kesalahan pemula. Saya meremehkan musuh saya." - Amidamaru dari anime Shaman King
+  "Anda benar-benar tidak tahu apa yang terjadi, bukan? Tidak masalah. Dengan segala cara, tetaplah di peti matimu yang nyaman ini dan teruslah bermain sebagai pangeran. Tapi aku harus pergi sekarang. Dia tidak pergi sama sekali, dia hanya menghilang dari duniamu. Pamitan." - Anthy Himemiya dari anime Revolutionary Girl Utena
   
   # English
-  "I will stay by your side, my friend. Know that I am here, and that I am sorry. I am sorry that... I failed you. After waiting 600 years I made a beginner's mistake. I underestimated my enemy." - Amidamaru from anime Shaman King
+  "You really don't know what happened, do you? It doesn't matter. By all means, stay in this cozy coffin of yours and continue to play prince. But I have to go now. She's not gone at all, she merely vanished form your world. Farewell. " - Anthy Himemiya from anime Revolutionary Girl Utena
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:14:24 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:16:00 by fiandev@bot.
