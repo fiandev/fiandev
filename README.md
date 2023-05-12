@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Apa yang Anda katakan mungkin benar, bahwa ada perang yang terjadi di luar dunia kita. Tapi kami tidak setuju dengan itu! Kami tidak menyukai perang! Dan itulah mengapa kami memilih untuk berada di sini, di wilayah netral!" - Kira Yamato dari anime Mobile Suit Gundam Seed
+  "Ketika hidup berubah menjadi lebih sulit, ubahlah dirimu menjadi lebih kuat." - Erza Scarlet dari anime Fairy Tail
   
   # English
-  "What you say may be correct, that there is a war going on outside our world. But we don't agree with it! We dislike war! And that is why we chose to be here, in neutral territory!" - Kira Yamato from anime Mobile Suit Gundam Seed
+  "When life changes to be harder, change yourself to be stronger." - Erza Scarlet from anime Fairy Tail
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:34:30 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:35:58 by fiandev@bot.
