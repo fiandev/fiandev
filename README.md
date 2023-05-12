@@ -4,10 +4,10 @@
   ## quotes
   ```
   # Indonesia
-  "Dia adalah orang yang mengajari saya untuk memperdalam ikatan saya dengan orang-orang saya. Berkat dia, aku bisa mendapatkan kembali diriku yang sebenarnya. Desa itu memiliki dia, orang yang menghargai ikatan teman lebih dari siapa pun yang saya kenal. Naruto Uzumaki... Mengetahui dia dan teman-teman yang dia sayangi, mereka akan mengatasi bencana ini dan tumbuh lebih kuat darinya." - Gaara dari anime Naruto
+  "Tuanku mempercayakanku banyak hal, dari hal-hal besar hingga hal-hal kecil. Sama saja bagimu hal-hal yang tidak terbatas, tidakkah kamu pikir sudah waktunya bagi kita, untuk menjadi orang yang mempercayakan bukan yang dititipkan, itu menyebalkan tapi aku tidak bisa mengatakan itu. Suatu hari nanti kamu akan menjadi orang yang mentraktir orang lain dengan ramen dan kamu akan dipanggil Master Naruto... Kita tidak bisa menjadi anak-anak selamanya, seperti Asuma dan Jiraiya, aku ingin menjadi sekeren mereka." - Nara Shikamaru dari anime Naruto
   
   # English
-  "He was the one who taught me to deepen my bond with my people. Thanks to him, I was able to regain my true self. That village has him, the one who cherishes a friend's bond more than anyone I know. Naruto Uzumaki... Knowing him and the friends he holds so dear, they will overcome this disaster and grow even stronger from it." - Gaara from anime Naruto
+  "My master entrusted me with a lot, from big things to little things. It's the same for you an unlimited number of things, don't you think it's about time for us, to be the ones who entrust not the entrusted, it's a pain in the ass but I can't say that. Someday you'll be the one to treat others to ramen and you'll be called Master Naruto... We can't stay kids forever, like Asuma and Jiraiya, I wanna be as cool as them." - Nara Shikamaru from anime Naruto
   
   # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
   ```
@@ -26,4 +26,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:40:28 by fiandev@bot.
+  > Auto updated at 2023-05-12 00:42:03 by fiandev@bot.
