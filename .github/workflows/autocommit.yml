@@ -16,38 +16,9 @@ jobs:
         uses: jakejarvis/wait-action@master
         with:
           time: "1m"
-      - name: API kyoko
-        id: kyoko
-        run: |+
-          RESPONSE=$(curl --silent "https://kyoko.rei.my.id/api/quotes.php")
-          echo $RESPONSE > "response.json"
-
-      - name: quotes english
-        uses: sergeysova/jq-action@v2
-        id: quoteEN
-        with:
-          cmd: jq ".apiResult[0] .english" "response.json" -r
-      - name: quotes indonesia
-        uses: sergeysova/jq-action@v2
-        id: quoteID
-        with:
-          cmd: jq ".apiResult[0] .indo" "response.json" -r
-      - name: quotes anime
-        uses: sergeysova/jq-action@v2
-        id: anime
-        with:
-          cmd: jq ".apiResult[0] .anime" "response.json" -r
-      - name: quotes anime character
-        uses: sergeysova/jq-action@v2
-        id: char
-        with:
-          cmd: jq ".apiResult[0] .character" "response.json" -r
+          
       - name: Modify last update
         run: |+
-          quoteID="${{ steps.quoteID.outputs.value }}"
-          quoteEN="${{ steps.quoteEN.outputs.value }}"
-          char="${{ steps.char.outputs.value }}"
-          anime="${{ steps.anime.outputs.value }}"
           time=`date '+%Y-%m-%d %H:%M:%S'`
           
           cat > "README.md" <<EOF
@@ -55,14 +26,22 @@ jobs:
             hi, i'm fian junior fullstack web developer from Indonesia 🇮🇩
             
             ## quotes
-            \`\`\`
-            # Indonesia
-            "$quoteID" - $char dari anime $anime
+            \`\`\`typescript
+            import { Humanity, Activity } from "life";
             
-            # English
-            "$quoteEN" - $char from anime $anime
-            
-            # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
+            class Me extends Humanity {
+              public static shortname: string = "fian"
+              public age: number = 17
+              public hobbies: string[] = ["coding", "anime", "music", "learn new things"]
+              
+              public function about_me () {
+                return "Hi, I'm fian, 
+                I really like computer programming, 
+                I know quite a lot of programming languages, 
+                I am very happy if you invite me to join your project :)
+                don't hesitate to contact me 😊"
+              }
+            }
             \`\`\`
             
             ## 🌐 Socials:
