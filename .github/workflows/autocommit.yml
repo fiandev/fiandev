@@ -20,7 +20,7 @@ jobs:
       - name: Modify last update
         run: |+
           time=`date '+%Y-%m-%d %H:%M:%S'`
-          
+          age=expr `date '+%Y'` / 1 - 2005
           cat > "README.md" <<EOF
             # 💫 About Me:
             hi, i'm fian junior fullstack web developer from Indonesia 🇮🇩
@@ -31,10 +31,10 @@ jobs:
             
             class Me extends Humanity {
               public static shortname: string = "fian"
-              public age: number = 17
+              public age: number = $age
               public hobbies: string[] = ["coding", "anime", "music", "learn new things"]
               
-              public function about_me () {
+              public function about_me (): string {
                 return "Hi, I'm fian, 
                 I really like computer programming, 
                 I know quite a lot of programming languages, 
