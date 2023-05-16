@@ -20,18 +20,17 @@ jobs:
       - name: Modify last update
         run: |+
           time=`date '+%Y-%m-%d %H:%M:%S'`
-          age=expr `date '+%Y'` / 1 - 2005
           cat > "README.md" <<EOF
             # 💫 About Me:
             hi, i'm fian junior fullstack web developer from Indonesia 🇮🇩
             
             ## quotes
             \`\`\`typescript
-            import { Humanity, Activity } from "life";
+            import { Humanity } from "life";
             
             class Me extends Humanity {
               public static shortname: string = "fian"
-              public age: number = $age
+              public age: number = 17
               public hobbies: string[] = ["coding", "anime", "music", "learn new things"]
               
               public function about_me (): string {
