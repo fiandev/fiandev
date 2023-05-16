@@ -2,14 +2,22 @@
   hi, i'm fian junior fullstack web developer from Indonesia 🇮🇩
   
   ## quotes
-  ```
-  # Indonesia
-  "Orang tidak pernah bisa benar-benar memahami satu sama lain! Itu sebabnya kami berkomunikasi dan mencoba memahami. Kita hanya bisa memahami diri kita sendiri melalui kebersamaan dengan orang lain!" - Riki Naoe dari anime Little Busters!
+  ```typescript
+  import { Humanity, Activity } from "life";
   
-  # English
-  "People can never truly understand each other! That's why we communicate and try to understand. We can only understand ourselves through being with others!" - Riki Naoe from anime Little Busters!
-  
-  # Auto generated from : https://kyoko.rei.my.id/api/quotes.php
+  class Me extends Humanity {
+    public static shortname: string = "fian"
+    public age: number = 17
+    public hobbies: string[] = ["coding", "anime", "music", "learn new things"]
+    
+    public function about_me () {
+      return "Hi, I'm fian, 
+      I really like computer programming, 
+      I know quite a lot of programming languages, 
+      I am very happy if you invite me to join your project :)
+      don't hesitate to contact me 😊"
+    }
+  }
   ```
   
   ## 🌐 Socials:
@@ -26,4 +34,4 @@
   ---
   [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
   
-  > Auto updated at 2023-05-12 00:43:32 by fiandev@bot.
+  > Auto updated at 2023-05-16 14:40:14 by fiandev@bot.
