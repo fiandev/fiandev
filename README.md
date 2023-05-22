@@ -1,5 +1,9 @@
-# 💫 About Me:
-hi, i'm fian junior fullstack web developer from Indonesia 🇮🇩
+[![](https://img.shields.io/badge/profile-fiandev-blue)](https://github.com/fiandev)
+[![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
+
+---
+## 💫 About Me:
+Hi everyone, I'm a coder from Indonesia 🇮🇩, I'm very interested in the world of programming, my favorite language is javascript, Python, And PHP.
 
 ## 👨‍💻 quotes
 ```typescript
@@ -20,11 +24,8 @@ class Me extends Humanity {
 }
 ```
 
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/fiandev)
-
 # 💻 Tech Stack:
-<table border="1">
+<table border="2" style="width: 100%;">
   <thead>
     <tr>
       <th>no</th>
@@ -62,4 +63,3 @@ class Me extends Humanity {
 <img style="width: 20rem; height: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=fiandev&theme=react&hide_border=true" alt="top languages" />
 
 ---
-[![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
