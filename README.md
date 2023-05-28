@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/profile-fiandev-blue)](https://github.com/fiandev)
 [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
-[![](https://img.shields.io/badge/date-28/05/2023_04:48:21-blue)](https://github.com/fiandev)
+[![](https://img.shields.io/badge/date-28/05/2023_04:49:46-blue)](https://github.com/fiandev)
 
 ---
 ## 💫 About Me:
