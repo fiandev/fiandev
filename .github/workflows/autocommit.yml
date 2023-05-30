@@ -12,10 +12,7 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
-      - name: Sleep for seconds
-        uses: jakejarvis/wait-action@master
-        with:
-          time: "1m"
+          
           
       - name: Modify last update
         run: |+
