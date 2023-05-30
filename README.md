@@ -38,8 +38,8 @@ class Me extends Humanity {
 
 # 📊 GitHub Stats:
 <img style="width: 20rem; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiandev&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="top languages" />
-<img style="width: 20rem; height: auto;" src="https://awesome-github-stats.azurewebsites.net/user-stats/fiandev?cardType=level&preferLogin=false" alt="top languages" />
-<img style="width: 20rem; height: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=fiandev&theme=react&hide_border=true" alt="top languages" />
+<img style="width: 20rem; height: auto;" src="https://awesome-github-stats.azurewebsites.net/user-stats/fiandev?cardType=level&preferLogin=false&theme=dark" alt="user rank" />
+<img style="width: 20rem; height: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=fiandev&theme=react&hide_border=true" alt="streak stats" />
 <img style="width: 20rem; height: auto; display: block;" src="https://github-contributor-stats.vercel.app/api?username=fiandev&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contribution" />
 
 ---
