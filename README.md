@@ -39,10 +39,10 @@ class Me extends Humanity {
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ## 📊 GitHub Stats:
-<img style="width: 20rem; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiandev&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="top languages" />
-<img style="width: 20rem; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api?username=fiandev&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="github stats" />
-<img style="width: 20rem; height: auto; display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=fiandev&theme=react&hide_border=true" alt="commit stats" />
-<img style="width: 20rem; height: auto; display: block;" src="https://github-contributor-stats.vercel.app/api?username=fiandev&limit=5&theme=react&combine_all_yearly_contributions=true" alt="top contribution" />
+<img style="width: 25rem; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiandev&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="top languages" />
+<img style="width: 25rem; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api?username=fiandev&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="github stats" />
+<img style="width: 25rem; height: auto; display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=fiandev&theme=react&hide_border=true" alt="commit stats" />
+<img style="width: 25rem; height: auto; display: block;" src="https://github-contributor-stats.vercel.app/api?username=fiandev&limit=5&theme=react&combine_all_yearly_contributions=true" alt="top contribution" />
 
 ---
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fiandev) 
