@@ -2,10 +2,10 @@
 [![](https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0a93d1&style=flat)](https://github.com/fiandev)
 
 ---
-## 💫 about me:
+## 🙋‍♂️ About Me:
 Hi everyone, I'm a coder from Indonesia 🇮🇩, I'm very interested in the world of programming, my favorite language is javascript, Python, And PHP.
 
-## 👨‍💻 quotes:
+## 👨‍💻 Quotes:
 ```typescript
 import { Humanity } from "life";
 
