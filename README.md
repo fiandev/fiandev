@@ -15,7 +15,7 @@ class Me extends Humanity {
   public age: number = 18
   public hobbies: string[] = ["code", "anime", "music", "learn new things"]
   
-  public function about_me () {
+  public about_me (): string {
     return `Hi, I'm fian, 
             I really like computer programming, 
             I know quite a lot of programming languages, 
