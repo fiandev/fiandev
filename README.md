@@ -10,21 +10,23 @@ I'm a coder from Indonesia 🇮🇩
 I'm very interested in the world of programming, my favorite language is javascript, Python, And PHP.
 
 ## 👨‍💻 Quotes:
-```typescript
-import { Humanity } from "life";
+```php
+<?php
+
+use Life\Humanity;
 
 class Me extends Humanity {
-  public static name: string = "Aditia Akbar Putra Alfiansa"
-  public static shortname: string = "fian"
-  public age: number = 18
-  public hobbies: string[] = ["code", "anime", "music", "learn new things"]
+  public static $name = "Aditia Akbar Putra Alfiansa";
+  public static $shortname = "fian";
+  public $age = 18;
+  public $hobbies = ["code", "anime", "music", "learn new things"];
   
-  public about_me (): string {
-    return `Hi, I'm fian, 
+  public function about_me (): string {
+    return "Hi, I'm fian, 
             I really like computer programming, 
             I know quite a lot of programming languages, 
             I am very happy if you invite me to join your project :)
-            don't hesitate to contact me 😊`;
+            don't hesitate to contact me 😊";
   }
 }
 ```
