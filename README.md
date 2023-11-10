@@ -10,26 +10,31 @@ I'm a coder from Indonesia 🇮🇩
 I'm very interested in the world of programming, my favorite language is javascript, Python, And PHP.
 
 ## 👨‍💻 Quotes:
-```php
-<?php
+```go
+package main
 
-use Life\Humanity;
+import "fmt"
 
-class Me extends Humanity {
-  public static $name = "Aditia Akbar Putra Alfiansa";
-  public static $shortname = "fian";
-  public $age = 18;
-  public $hobbies = ["code", "anime", "music", "learn new things"];
-  
-  public function about_me (): string {
-    return "Hi, I'm fian, 
-            I really like computer programming, 
-            I know quite a lot of programming languages, 
-            I am very happy if you invite me to join your project :)
-            don't hesitate to contact me 😊";
-  }
+type Person struct {
+  name string
+  username string
+  age int
+  hobbies []string
+  job string
 }
-```
+
+func main() {
+  var me = new(Person)
+  
+  me.name     = "Aditia Akbar Putra Alfiansa"
+  me.username = "Fiandev"
+  me.age      = 18
+  me.job      = "software engineer | web developer"
+  me.hobbies  = []string{"code", "anime", "music"}
+  
+  fmt.Println(me)
+}
+}```
 
 ## 💻 Tech Stacks:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
