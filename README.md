@@ -34,7 +34,6 @@ func main() {
   
   fmt.Println(me)
 }
-}
 ```
 
 ## 💻 Tech Stacks:
