@@ -64,4 +64,4 @@ func main() {
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fiandev) 
 [![BTC](https://img.shields.io/badge/BTC-black?style=for-the-badge&logo=bitcoin&logoColor=yellow&logoWidth=16&link=bitcoin:17mHPG7VgvCeGKJ518FoR7xKQWG5LMjwdL&cacheSeconds=5)](bitcoin:17mHPG7VgvCeGKJ518FoR7xKQWG5LMjwdL)
 [![ETH](https://img.shields.io/badge/ETH-black?style=for-the-badge&logo=ethereum&logoColor=lightblue&logoWidth=16&link=ethereum:0xb872ec29be6d3cc58b9e28a4328c301464d6c632&cacheSeconds=5)](ethereum:0xb872ec29be6d3cc58b9e28a4328c301464d6c632)
-[![BNB](https://img.shields.io/badge/BNB-black?style=for-the-badge&logo=BNB Chain&logoColor=yellow&logoWidth=16&link=bnb:0xb872ec29be6d3cc58b9e28a4328c301464d6c632&cacheSeconds=5)](bnb:0xb872ec29be6d3cc58b9e28a4328c301464d6c632)
+[![BNB](https://img.shields.io/badge/BNB-black?style=for-the-badge&logo=BNB-Chain&logoColor=yellow&logoWidth=16&link=bnb:0xb872ec29be6d3cc58b9e28a4328c301464d6c632&cacheSeconds=5)](bnb:0xb872ec29be6d3cc58b9e28a4328c301464d6c632)
