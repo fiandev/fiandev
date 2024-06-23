@@ -15,30 +15,24 @@ I'm a coder from Indonesia 🇮🇩
 I'm very interested in the world of programming, my favorite language is javascript, Python, And PHP.
 
 ## 👨‍💻 Biodata:
-```go
-package main
-
-import "fmt"
-
-type Person struct {
-  name string
-  username string
-  age int
-  hobbies []string
-  job string
+```typescript
+interface Person {
+  name: string;
+  username: string;
+  age: number;
+  hobbies: string[];
+  job: string;
 }
 
-func main() {
-  var me = new(Person)
-  
-  me.name     = "Aditia Akbar Putra Alfiansa"
-  me.username = "Fiandev"
-  me.age      = 19
-  me.job      = "Fullstack Developer | IT Enthusiast | Coder"
-  me.hobbies  = []string{"code", "anime", "music"}
-  
-  fmt.Println(me)
-}
+const me: Person = {
+  name: "Aditia Akbar Putra Alfiansa",
+  username: "Fiandev",
+  age: 19,
+  job: "Web Developer",
+  hobbies: ["code", "anime", "music"]
+};
+
+console.log(me);
 ```
 
 ## 💻 Tech Stacks:
