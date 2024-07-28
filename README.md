@@ -26,7 +26,25 @@ I'm very interested in the world of programming, my favorite language is javascr
 
 ## 👨‍💻 Biodata:
 
+```typescript
+interface Person {
+  name: string;
+  username: string;
+  age: number;
+  hobbies: string[];
+  job: string;
+}
 
+const me: Person = {
+  name: "Aditia Akbar Putra Alfiansa",
+  username: "Fiandev",
+  age: 19,
+  job: "Web Developer",
+  hobbies: ["code", "anime", "music"],
+};
+
+console.log(me);
+```
 
 ## 💻 Tech Stacks:
 
@@ -68,5 +86,3 @@ I'm very interested in the world of programming, my favorite language is javascr
 [![BNB](https://img.shields.io/badge/BNB-black?style=for-the-badge&logo=BNB-Chain&logoColor=yellow&logoWidth=16&link=https://bscscan.com/address/0xb872ec29be6d3cc58b9e28a4328c301464d6c632&cacheSeconds=5)](https://bscscan.com/address/0xb872ec29be6d3cc58b9e28a4328c301464d6c632)
 
 ---
-
-updated at: 2024-07-28 05:13:37
