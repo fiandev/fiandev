@@ -1,4 +1,4 @@
-## Hi there Good Night!
+## Hi there!
 
 i hope you can enjoy your day!
 
@@ -46,7 +46,7 @@ I'm very interested in the world of programming, my favorite language is javascr
 ## 📊 GitHub Stats:
 
 <div style="display: flex">
-  <img style="width: 80%; height: auto; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiandev&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="top languages" />
+  <img style="width: 14rem; height: auto; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiandev&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="top languages" />
   <!-- <img style="width: 14rem; height: auto; display: inline-block;" src="https://github-contributor-stats.vercel.app/api?username=fiandev&limit=5&theme=react&combine_all_yearly_contributions=true" alt="top contribution" />
   <img style="width: 14rem; height: auto; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=fiandev&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="github stats" />
   <img style="width: 14rem; height: auto; display: inline-block;" src="https://github-readme-streak-stats.herokuapp.com/?user=fiandev&theme=react&hide_border=true" alt="commit stats" /> -->
@@ -69,3 +69,4 @@ I'm very interested in the world of programming, my favorite language is javascr
 
 ---
 
+updated at: 2024-07-28 04:23:52
