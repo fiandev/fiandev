@@ -15,21 +15,10 @@ jobs:
 
       - name: Modify last update
         run: |+
-          greeting () {
-            hour =$(date +%H)
-            if [ $hour -ge 5 -a $hour -lt 12 ]; then
-              echo "Good Morning!"
-            elif [ $hour -ge 12 -a $hour -lt 18 ]; then
-              echo "Good Afternoon!"
-            elif [ $hour -ge 18 -a $hour -lt 24 ]; then
-              echo "Good Evening!"
-            else
-              echo "Good Night!"
-            fi
-          }
-          message=$(greeting)
+          time=`date '+%Y-%m-%d %H:%M:%S'`
+
           cat > "README.md" <<EOF
-          ## Hi there $message
+          ## Hi there!
 
           i hope you can enjoy your day!
 
@@ -58,23 +47,23 @@ jobs:
           ## 👨‍💻 Biodata:
 
           ```typescript
-          interface Person {
-            name: string;
-            username: string;
-            age: number;
-            hobbies: string[];
-            job: string;
-          }
+            interface Person {
+              name: string;
+              username: string;
+              age: number;
+              hobbies: string[];
+              job: string;
+            }
 
-          const me: Person = {
-            name: "Aditia Akbar Putra Alfiansa",
-            username: "Fiandev",
-            age: 19,
-            job: "Web Developer",
-            hobbies: ["code", "anime", "music"],
-          };
+            const me: Person = {
+              name: "Aditia Akbar Putra Alfiansa",
+              username: "Fiandev",
+              age: 19,
+              job: "Web Developer",
+              hobbies: ["code", "anime", "music"],
+            };
 
-          console.log(me);
+            console.log(me);
           ```
 
           ## 💻 Tech Stacks:
@@ -95,7 +84,7 @@ jobs:
           ## 📊 GitHub Stats:
 
           <div style="display: flex">
-            <img style="width: 80%; height: auto; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiandev&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="top languages" />
+            <img style="width: 14rem; height: auto; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiandev&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="top languages" />
             <!-- <img style="width: 14rem; height: auto; display: inline-block;" src="https://github-contributor-stats.vercel.app/api?username=fiandev&limit=5&theme=react&combine_all_yearly_contributions=true" alt="top contribution" />
             <img style="width: 14rem; height: auto; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=fiandev&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="github stats" />
             <img style="width: 14rem; height: auto; display: inline-block;" src="https://github-readme-streak-stats.herokuapp.com/?user=fiandev&theme=react&hide_border=true" alt="commit stats" /> -->
@@ -118,6 +107,7 @@ jobs:
 
           ---
 
+          updated at: $time
           EOF
 
       - name: Commit changes
