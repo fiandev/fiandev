@@ -81,8 +81,4 @@ console.log(me);
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fiandev)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fiandev)
 
-[![BTC](https://img.shields.io/badge/BTC-black?style=for-the-badge&logo=bitcoin&logoColor=yellow&logoWidth=16&link=https://btcscan.org/address/14kotYaGx32XceP3Unxg6ZasF8mgTjMwh4&cacheSeconds=5)](https://btcscan.org/address/14kotYaGx32XceP3Unxg6ZasF8mgTjMwh4)
-[![ETH](https://img.shields.io/badge/ETH-black?style=for-the-badge&logo=ethereum&logoColor=lightblue&logoWidth=16&link=https://etherscan.io/address/0xb872ec29be6d3cc58b9e28a4328c301464d6c632&cacheSeconds=5)](https://etherscan.io/address/0xb872ec29be6d3cc58b9e28a4328c301464d6c632)
-[![BNB](https://img.shields.io/badge/BNB-black?style=for-the-badge&logo=BNB-Chain&logoColor=yellow&logoWidth=16&link=https://bscscan.com/address/0xb872ec29be6d3cc58b9e28a4328c301464d6c632&cacheSeconds=5)](https://bscscan.com/address/0xb872ec29be6d3cc58b9e28a4328c301464d6c632)
-
 ---
