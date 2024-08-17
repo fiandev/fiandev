@@ -54,12 +54,16 @@ console.log(me);
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffd574)
 ![Golang](https://img.shields.io/badge/golang-%23323330.svg?style=flat-square&logo=go&logoColor=#07b9fa)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-white.svg?style=flat-square&logo=laravel&logoColor=23FF2D20)
+![codeigniter](https://img.shields.io/badge/codeignter-white.svg?style=flat-square&logo=codeigniter&logoColor=#ffffff)
 ![Nextjs](https://img.shields.io/badge/nextjs-%2320232a.svg?style=flat-square&logo=vercel&logoColor=ffffff)
+![Reactjs](https://img.shields.io/badge/reactjs-white.svg?style=flat-square&logo=react&logoColor=blue)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![flask](https://img.shields.io/badge/flask-%23323330.svg?style=flat-square&logo=flask&logoColor=#000000)
+![go](https://img.shields.io/badge/go-%23323330.svg?style=flat-square&logo=go&logoColor=#000000)
+![hono](https://img.shields.io/badge/hono-white.svg?style=flat-square&logo=hono&logoColor=#000000)
 
 ## 📊 GitHub Stats:
 
