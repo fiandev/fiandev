@@ -8,40 +8,68 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h2 align="left">👨‍💻 About Me</h2>
-      <p align="left">
-        Hello! I'm a passionate developer with a love for building innovative and efficient solutions. I enjoy exploring new technologies and continuously improving my skills.
-        <br/><br/>
-        - 🔭 I’m currently working on <strong>Ryucode</strong>
-        <br/>
-        - 🌱 I’m currently learning <strong>Solidity</strong>
-        <br/>
-        - 👯 I’m looking to collaborate on <strong>Open Source projects</strong>
-        <br/>
-        - 📫 How to reach me: <strong>fiandev1234@gmail.com</strong>
-      </p>
-    </td>
-    <td valign="top" width="40%">
-      <p align="center">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1yd3Rzd3ZsYnppOW0xbXgxNWdxZmtpZ2RyeTR3YmU4NXE3Z2x6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding GIF" width="100%" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2 align="left">👨‍💻 About Me</h2>
+  <p align="left">
+    Hello! I'm a passionate developer with a love for building innovative and efficient solutions. I enjoy exploring new technologies and continuously improving my skills.
+    <br/><br/>
+    - 🔭 I’m currently working on <strong>Ryucode</strong>
+    <br/>
+    - 🌱 I’m currently learning <strong>Solidity</strong>
+    <br/>
+    - 👯 I’m looking to collaborate on <strong>Open Source projects</strong>
+    <br/>
+    - 📫 How to reach me: <strong>contact@fiandev.com</strong>
+  </p>
+  
+  <p align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1yd3Rzd3ZsYnppOW0xbXgxNWdxZmtpZ2RyeTR3YmU4NXE3Z2x6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding GIF" width="300px" />
+  </p>
+</div>
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://tiktok.com/@fiandev">
+  <a href="https://linkedin.com/in/fiandev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/im_fiandev" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/i.m.fian" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@fiandev" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
   </a>
-  <a href="mailto:fiandev1234@gmail.com">
+  <a href="mailto:contact@fiandev.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+
+<h2 align="center">💖 Support Me</h2>
+<p align="center">
+  Jika Anda merasa pekerjaan saya bermanfaat, Anda bisa memberikan dukungan. Terima kasih banyak!
+</p>
+<p align="center">
+  <a href="https://paypal.me/fiandev" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+  <a href="https://mempool.space/address/bc1q6aqr9zq7tae7dt4yvt8qy00nkc00mqgje8wd00" target="_blank">
+    <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://etherscan.io/address/0x93df9D225F4E396A6899Fad46bEA72B88990B686" target="_blank">
+    <img src="https://img.shields.io/badge/USDT_(ERC20)-26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="USDT ERC20" />
+  </a>
+  <a href="https://bscscan.com/address/0x93df9D225F4E396A6899Fad46bEA72B88990B686" target="_blank">
+    <img src="https://img.shields.io/badge/USDT_(BSC20)-26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="USDT BSC20" />
+  </a>
+</p>
+
+* **Bitcoin (BTC):** `bc1q6aqr9zq7tae7dt4yvt8qy00nkc00mqgje8wd00`
+* **USDT (ERC-20 / BSC-20):** `0x93df9D225F4E396A6899Fad46bEA72B88990B686`
 ---
 
 <h2 align="center">🛠️ Languages and Tools</h2>
@@ -94,4 +122,4 @@
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="
+</p>
