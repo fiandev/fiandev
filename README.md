@@ -49,7 +49,7 @@
 
 <h2 align="center">💖 Support Me</h2>
 <p align="center">
-  Jika Anda merasa pekerjaan saya bermanfaat, Anda bisa memberikan dukungan. Terima kasih banyak!
+  If you find my work useful, you can show your support. Thank you very much! 
 </p>
 <p align="center">
   <a href="https://paypal.me/fiandev" target="_blank">
