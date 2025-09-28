@@ -123,3 +123,10 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
+
+<h2 align="center">📈 Contribution Activity</h2>
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fiandev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true)
+
+</div>
