@@ -46,30 +46,6 @@
   </a>
 </p>
 
-
-<h2 align="center">💖 Support Me</h2>
-<p align="center">
-  If you find my work useful, you can show your support. Thank you very much! 
-</p>
-<p align="center">
-  <a href="https://paypal.me/fiandev" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-  </a>
-  <a href="https://mempool.space/address/bc1q6aqr9zq7tae7dt4yvt8qy00nkc00mqgje8wd00" target="_blank">
-    <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://etherscan.io/address/0x93df9D225F4E396A6899Fad46bEA72B88990B686" target="_blank">
-    <img src="https://img.shields.io/badge/USDT_(ERC20)-26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="USDT ERC20" />
-  </a>
-  <a href="https://bscscan.com/address/0x93df9D225F4E396A6899Fad46bEA72B88990B686" target="_blank">
-    <img src="https://img.shields.io/badge/USDT_(BSC20)-26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="USDT BSC20" />
-  </a>
-</p>
-
-* **Bitcoin (BTC):** `bc1q6aqr9zq7tae7dt4yvt8qy00nkc00mqgje8wd00`
-* **USDT (ERC-20 / BSC-20):** `0x93df9D225F4E396A6899Fad46bEA72B88990B686`
 ---
 
 <h2 align="center">🛠️ Languages and Tools</h2>
