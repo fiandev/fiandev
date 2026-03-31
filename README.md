@@ -1,54 +1,26 @@
-<p align="center">
+<p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:81C784&height=250&section=header&text=Hi%20there!%20I'm%20Fian%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/fiandev">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4CAF50&center=true&width=435&lines=Full-Stack+Developer;Web3+%26+Blockchain+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
-<div align="center">
-  <h2 align="left">👨‍💻 About Me</h2>
-  <p align="left">
-    Hello! I'm a passionate developer with a love for building innovative and efficient solutions. I enjoy exploring new technologies and continuously improving my skills.
-    <br/><br/>
-    - 🔭 I’m currently working on <strong>Ryucode</strong>
-    <br/>
-    - 🌱 I’m currently learning <strong>Solidity</strong>
-    <br/>
-    - 👯 I’m looking to collaborate on <strong>Open Source projects</strong>
-    <br/>
-    - 📫 How to reach me: <strong>contact@fiandev.com</strong>
-  </p>
-  
-  <p align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1yd3Rzd3ZsYnppOW0xbXgxNWdxZmtpZ2RyeTR3YmU4NXE3Z2x6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding GIF" width="300px" />
-  </p>
-</div>
-
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/fiandev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<h2>🌐 Connect with Me</h2>
+<p>
+  <a href="https://link.fiandev.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-%23121111.svg?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
-  <a href="https://x.com/im_fiandev" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/i.m.fian" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@fiandev" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
-  </a>
-  <a href="mailto:contact@fiandev.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://fiandev.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2334b7eb.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2>🛠️ Languages and Tools</h2>
 
 <h3 align="left">Languages</h3>
 <p align="left">
@@ -100,8 +72,8 @@
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-<h2 align="center">📈 Contribution Activity</h2>
-<div align="center">
+<h2>📈 Contribution Activity</h2>
+<div>
   
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fiandev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true)
 

@@ -1,0 +1,32 @@
+name: Gardening
+
+on:
+  schedule:
+    - cron: "0 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 * *"
+  workflow_dispatch:
+
+jobs:
+  garden:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update timestamp
+        id: timestamp
+        run: |
+          TS=$(date '+%Y-%m-%d %H:%M:%S')
+          echo "$TS" > timestamp.txt
+          echo "ts=$TS" >> $GITHUB_OUTPUT
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "fiandev"
+          git config --global user.email "alfiansa@proton.me"
+          git add timestamp.txt
+          git commit -m "[auto]: @fiandev - ${{ steps.timestamp.outputs.ts }}"
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          force: true
+          directory: "."
+          github_token: ${{ secrets.GITHUB_TOKEN }}
